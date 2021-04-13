@@ -1,5 +1,3 @@
-import pydevd_pycharm
-pydevd_pycharm.settrace('localhost', port=12345, stdoutToServer=True, stderrToServer=True)
 import torch
 import torch.nn as nn
 import os
