@@ -1,6 +1,13 @@
 # Datensatzvorbereiten
-- Produkte in 7 Kategorien: Arts_Crafts_and_Sewing, Home_and_Kitchen, Patio_Lawn_and_Garden, Pet_Supplie, Sports_and_Outdoor, Tool_and_Home_Improvement, Toys_and_Games  
-- In jeder Kategorie sind jeweils 900 Produktpaare, davon 400 Matches und 500 Mismatches.  
+- Produkte in 7 Kategorien: 
+    + Arts_Crafts_and_Sewing
+    + Home_and_Kitchen
+    + Patio_Lawn_and_Garden
+    + Pet_Supplie
+    + Sports_and_Outdoor
+    + Tool_and_Home_Improvement
+    + Toys_and_Games  
+- Für jede Kategorie wurden jeweils 900 Produktpaare selektiert, davon 400 Matches und 500 Mismatches.  
 - Ein Produktpaar wird als Match gelabled, wenn es in der Schnittmenge der similar_item und also_view und/oder also_buy liegt.  
 - Ein Produktpaar wird als Mismatch gelabled, wenn es weder zusammenangeschaut noch zusammengekauft werden. Die Kategorien sind außerdem unterschiedlich.  
 - Jedes Produkt hat 3 Attribute: title, feature und description.  
