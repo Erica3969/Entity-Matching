@@ -73,8 +73,8 @@ class Summarizer:
             str: the summarized example
         """
         row = row.strip().split('\t')
-        if len(row)<3:
-            sentA, sentB, label = row[0], row[1], ''
+        if len(row)<2:
+            sentA, sentB, label = row[0], '', ''
         else:
             sentA, sentB, label = row[0], row[1], row[2]
         res = ''
@@ -88,6 +88,7 @@ class Summarizer:
                         cnt[token] += self.idf[self.vocab[token]]
 
         for sent in [sentA, sentB]:
+            if sent=='':continue
             token_cnt = Counter(sent.split(' '))
             total_len = token_cnt['COL'] + token_cnt['VAL']
 
