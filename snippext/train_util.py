@@ -151,6 +151,10 @@ def eval_classifier(model, iterator):
             print("recall=%.3f"%recall)
             print("f1=%.3f"%f1)
             print("======================================")
+            print('eval_classifier: Y')
+            print(Y)
+            print('Y_hat')
+            print(Y_hat)
             return accuracy, precision, recall, f1, loss
         else:
             accuracy = metrics.accuracy_score(Y, Y_hat)
@@ -159,11 +163,12 @@ def eval_classifier(model, iterator):
             print("accuracy=%.3f"%accuracy)
             print("macro_f1=%.3f"%f1)
             print("======================================")
+            print('eval_classifier: Y')
+            print(Y)
+            print('Y_hat')
+            print(Y_hat)
             return accuracy, f1, loss
-        print('eval_classifier: Y')
-        print(Y)
-        print('Y_hat')
-        print(Y_hat)
+        
 
 
 def eval_on_task(epoch,
@@ -193,7 +198,9 @@ def eval_on_task(epoch,
         float: test F1
     """
     t_prec = t_recall = t_f1 = t_loss = None
+    print('Eval_on_task train_util.py')
     if 'tagging' in task:
+        print('tagging in task')
         print('Validation:')
         prec, recall, f1, v_loss = eval_tagging(model,
                              valid_iter,
@@ -212,10 +219,12 @@ def eval_on_task(epoch,
                    't_f1': t_f1,
                    't_loss': t_loss}
     elif task in glue_processors:
+        print('task in glue_processors')
         print('Validation:')
         scalars = eval_classifier(model, valid_iter)
         f1, t_f1 = 0.0, 0.0
     elif task[:5] == 'glue_':
+        print("task[:5] == 'glue_'")
         print('Validation:')
         scalars = eval_classifier(model, valid_iter)
 
@@ -227,6 +236,7 @@ def eval_on_task(epoch,
 
         f1, t_f1 = 0.0, 0.0
     else:
+        print('else#################################################')
         print('Validation:')
         v_output = eval_classifier(model, valid_iter)
 
