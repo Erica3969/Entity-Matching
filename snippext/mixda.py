@@ -202,7 +202,7 @@ def initialize_and_train(task_config,
         None
     """
     padder = SnippextDataset.pad
-
+    print('mixda########################################################################')
     # iterators for dev/test set
     valid_iter = data.DataLoader(dataset=validset,
                                  batch_size=hp.batch_size,
