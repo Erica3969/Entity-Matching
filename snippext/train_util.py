@@ -75,6 +75,10 @@ def eval_tagging(model, iterator, idx2tag):
     print("f1=%.3f"%f1)
     print("loss=%.3f"%loss)
     print("=====================================")
+    print('eval_tagging: Y')
+    print(Y)
+    print('Y_hat')
+    print(Y_hat)
     return precision, recall, f1, loss
 
 def eval_classifier(model, iterator):
@@ -156,7 +160,7 @@ def eval_classifier(model, iterator):
             print("macro_f1=%.3f"%f1)
             print("======================================")
             return accuracy, f1, loss
-        print('Y')
+        print('eval_classifier: Y')
         print(Y)
         print('Y_hat')
         print(Y_hat)
