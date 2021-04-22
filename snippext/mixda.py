@@ -213,6 +213,9 @@ def initialize_and_train(task_config,
                                  shuffle=False,
                                  num_workers=0,
                                  collate_fn=padder)
+    print('Type testset ',type(testset))
+    print('Length testset ', len(testset))
+    print(testset[0])
 
 
     # initialize model
