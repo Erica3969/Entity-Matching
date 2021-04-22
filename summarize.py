@@ -72,11 +72,7 @@ class Summarizer:
         Returns:
             str: the summarized example
         """
-        row = row.strip().split('\t')
-        if len(row)<3:
-            sentA, sentB, label = row[0], row[1], ''
-        else:
-            sentA, sentB, label = row[0], row[1], row[2]
+        sentA, sentB, label = row.strip().split('\t')
         res = ''
         cnt = Counter()
         for sent in [sentA, sentB]:
