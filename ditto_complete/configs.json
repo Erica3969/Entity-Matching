@@ -902,4 +902,12 @@
   "trainset": "data/wdc/cameras/title_description_brand_specTableContent/train.txt.xlarge",
   "validset": "data/wdc/cameras/title_description_brand_specTableContent/valid.txt.xlarge",
   "testset": "data/wdc/cameras/title_description_brand_specTableContent/test.txt"
+},
+{
+  "name": "amazon_relaxdays_cat_all",
+  "task_type": "classification",
+  "vocab": ["0", "1"],
+  "trainset": "data/amazon/relaxdays/all/train.txt",
+  "validset": "data/amazon/relaxdays/all/valid.txt",
+  "testset": "data/amazon/relaxdays/all/test.txt"
 }]
