@@ -13,7 +13,7 @@ def evaluation(target_fn, prediction_fn):
     with jsonlines.open(prediction_fn,'r') as fh:
         for item in fh:
             pred.append(int(item['match']))
-            sequences.append((item['left'], item['right']))
+            sequences.append((item['left'], item['right'], item["match_confidence"]))
 
     acc=accuracy_score(target,pred)
     f1=f1_score(target,pred)
