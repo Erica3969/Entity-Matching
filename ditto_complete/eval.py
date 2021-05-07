@@ -5,8 +5,10 @@ import numpy as np
 
 def evaluation(target_fn, prediction_fn):
     target=[]
+    IDs=[]
     with jsonlines.open(target_fn,'r') as fh:
         for item in fh:
+            IDs.append((item['ID1'], item['ID2']))
             target.append(int(item['label']))
     pred=[]
     sequences=[]
@@ -23,15 +25,19 @@ def evaluation(target_fn, prediction_fn):
     TP=[]; TN=[]; FP=[]; FN=[]
     for i, label in enumerate(target):
         if label==pred[i]:
-            if label==1: TP.append(sequences[i])
-            if label==0: TN.append(sequences[i])
+            if label==1: TP.append((IDs[i][0], IDs[i][1], sequences[i][0], sequences[i][1], sequences[i][2]))
+            if label==0: TN.append((IDs[i][0], IDs[i][1], sequences[i][0], sequences[i][1], sequences[i][2]))
         if label!=pred[i]:
-            if label==1: FN.append(sequences[i])
-            if label==0: FP.append(sequences[i])
-    np.savetxt(f'{prediction_fn}_TP.txt',np.asarray(TP),fmt="%s")
-    np.savetxt(f'{prediction_fn}_TN.txt',np.asarray(TN),fmt="%s")
-    np.savetxt(f'{prediction_fn}_FP.txt',np.asarray(FP),fmt="%s")
-    np.savetxt(f'{prediction_fn}_FN.txt',np.asarray(FN),fmt="%s")
+            if label==1: FN.append((IDs[i][0], IDs[i][1], sequences[i][0], sequences[i][1], sequences[i][2]))
+            if label==0: FP.append((IDs[i][0], IDs[i][1], sequences[i][0], sequences[i][1], sequences[i][2]))
+    TP = sorted(TP, key=lambda x:x[4],, reverse=True)
+    TN = sorted(TN, key=lambda x:x[4],, reverse=True)
+    FP = sorted(FP, key=lambda x:x[4],, reverse=True)
+    FN = sorted(FN, key=lambda x:x[4],, reverse=True)
+    np.savetxt(f'{prediction_fn}_TP.csv',np.asarray(TP),fmt="%s", delimiter='\t')
+    np.savetxt(f'{prediction_fn}_TN.csv',np.asarray(TN),fmt="%s", delimiter='\t')
+    np.savetxt(f'{prediction_fn}_FP.csv',np.asarray(FP),fmt="%s", delimiter='\t')
+    np.savetxt(f'{prediction_fn}_FN.csv',np.asarray(FN),fmt="%s", delimiter='\t')
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
