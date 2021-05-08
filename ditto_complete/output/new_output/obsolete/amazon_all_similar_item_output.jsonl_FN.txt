@@ -1,0 +1,83 @@
+COL title VAL "Merial 000683 Ivomec Parasiticide Injection for Swine &amp; Cattle, 50ml"  COL title VAL "Goodwinol Products Corp. Vetrx Rabbit Veterinary Aid 2 Oz for all Standard Breeds"  0.8571713508894407
+COL title VAL "Mace Brand Police Strength Pepper Spray In A Leather Case with Key Ring"  COL title VAL "SABRE Red Lipstick Pepper Spray for Women &ndash; Pink, Maximum Strength OC Used by Police Globally, Fashionable and Small, Safe Easy to Use, Great Gift loved ones, 12 Bursts, 10 Foot Range"  0.7575702504049641
+COL title VAL "Star Wars Episode I: The Phantom Menace, Queen Amidala (Naboo) Action Figure, 3.75 Inches"  COL title VAL "Star Wars 3.75 Inch Scale Clone Evolution Pack - Padme Amidala Legacy 3Pk"  0.8344068863691763
+COL title VAL "Old Timer 8OT Senior 6.9in S.S. Traditional Folding Knife with 3in Clip Point, Sheepsfoot, Spey Blade and Sawcut Handle for Outdoor Hunting Camping Everyday Carry"  COL title VAL "Schrade SCH34OT-BRK Old Timer Middleman"  0.9198227667121237
+COL title VAL "Krups 132-46 Sandwich Express Maker"  COL title VAL "Cuisinart WM-SW2N Dual-Sandwich Nonstick Electric Grill"  0.5664401589829148
+COL title VAL "Achilles IIC - 1944 Tank Destroyer diecast 1:72 model (Amercom BG-7)"  COL title VAL "Easy Model Jagdpanzer IV Germany 1945 Die Cast Military Land Vehicles"  0.6060030837321925
+COL title VAL "Armaly Brands 2000 Bulls Eye 1-2-3 Water-Based Primer"  COL title VAL "KILZ Clean Start Extremely Low Odor, Zero VOC  Interior/Exterior Primer, Sealer, Stainblocker, White, 1 gallon"  0.8500956645233594
+COL title VAL "Violette Stickers White Roses"  COL title VAL "Heidi Swapp 15 Piece Memory Planner Floral Stickers with Gold Foil Finish, Clear"  0.7050240089294035
+COL title VAL "Pollenex DM209 4-Dial Hand Held Shower Head"  COL title VAL "Conair Home PR5200SR 5-Setting Handheld Showerhead, White and Grey"  0.9317735702802773
+COL title VAL "Made for Trade"  COL title VAL "Learning Resources Money Bags Coin Value Game"  0.9403530570548786
+COL title VAL "Music Mania"  COL title VAL "Rockit to Number 1 Game (The Rock &amp; Roll Trivia Challenge)"  0.7307224392567648
+COL title VAL "Partrade 245910 222729 Rubber Horse Braid Bands, White, 5&quot;"  COL title VAL "exhibitor's Quic Braid For Total Mane &amp; Tail Control 16 oz Spray"  0.8060142010226654
+COL title VAL "Kingston Brass KS8451DL Concord 4-Inch Centerset Lavatory Faucet with Push-Up Pop-Up and Plate, Polished Chrome"  COL title VAL "Elements of Design ES8451JX South Beach Single Hole Bathroom Faucet with Double Cross Handles, Polished Chrome"  0.5476852136054535
+COL title VAL "Star Wars: Episode 1 OOM-9 (Binoculars in Hand) Action Figure"  COL title VAL "Star Wars Episode I: The Phantom Menace, Captain Tarpals with Electropole Action Figure, 3.75 Inches"  0.5223544721682699
+COL title VAL "Progress Lighting P3754-09 6-Light Foyer Pendant, Brushed Nickel"  COL title VAL "Savoy House 7-1041-6-13, Penrose 6-Light Medium Foyer Lantern, English Bronze"  0.7303379552674515
+COL title VAL "Black &amp; Decker MFP200T MiniPro 2-Speed Food Processor with 2-Cup Bowl"  COL title VAL "Cuisinart DLC-2ABC Mini Prep Plus Food Processor Brushed Chrome and Nickel"  0.5792721153170044
+COL title VAL "MacGregor Recreational Double First Base"  COL title VAL "Champion Sports Orange &amp; White Double First Base Foam Filled - Nylon Straps and Metal Spikes"  0.8168085639525937
+COL title VAL "CBconcept [10 Bulbs] 110V-120V AC 35 Watts, Frosted, JCD GY6.35 Bi-Pin 35W Halogen Light Bulb, Accent Lighting, Chanderlier, Puck Light, Microwave, Range, RV &amp; Landscape Lighting | San Francisco"  COL title VAL "10 Pack Clear Dimmable T4 Q35/GY6.35/CL/120V GY6.35 JCD 35 Watt 35W 120 Volt Halogen Light Bulb Electric Wax Melter Plug In Warmer Aroma Tart Counter Lighting Kitchen Bathroom Mirror Fixture gy6.35"  0.5228722097711652
+COL title VAL "Hasbro Electronic Battleship Advanced Mission"  COL title VAL "Battleship Live"  0.5297803835281851
+COL title VAL "Best Manufacturers Flat Roux/Gravy Whip 12-inch Red Wood Handle"  COL title VAL "OXO Good Grips Better Flat Wire Whisk"  0.8621196531439876
+COL title VAL "Pacific Play Tents See-Me Connecting Tunnel - Neon"  COL title VAL "Pacific Play Tents 40205 Super Duper 4 Kids Playhouse Tent - 58&quot; x 46&quot;"  0.6239785320318456
+COL title VAL "12&quot; American Made Iron Outdoor Welcome Sign - Floral Design"  COL title VAL "Decorative Welcome Personalized Yard Sign"  0.5260022931161205
+COL title VAL "ARK NATURALS Omerga Mender."  COL title VAL "Royal Coat Express Omega Mender, Itch Ender - 8 ounces"  0.876950861770607
+COL title VAL "Music City Metals 13702 Stainless Steel Burner Replacement for Select Charbroil and Kenmore Gas Grill Models"  COL title VAL "Charbroil Cooking Zone, Coleman Sierra U Shaped Burner | PFBW"  0.8944672568803335
+COL title VAL "Star Wars, Episode I: The Phantom Menace, Senator Palpatine Action Figure, 3.75 Inches"  COL title VAL "Star Wars Episode 1 Coruscant Queen Amidala Action Figure"  0.7847317527804948
+COL title VAL "Cuisinart WM-SW2N Dual-Sandwich Nonstick Electric Grill"  COL title VAL "Brentwood TS-240B, 10.00in. x 9.70in. 4.30in, Black"  0.9794132234776562
+COL title VAL "Original Sears Craftsman Husqvarna Part # 164963 DECK-CMPLT-(TRUCK)"  COL title VAL "MTD Replacement Part 42&quot; Deck Sd Assembly With Wheel Brackets"  0.8798711899461571
+COL title VAL "Midwest Tubular Dog Car Barrier"  COL title VAL "Heininger 3048 PortablePET Pet Partition (adjustable 27&quot; to 45&quot;)"  0.9703243826727455
+COL title VAL "Huron/Hueter Toledo Doggie Dooley Digester 16oz"  COL title VAL "Simple Solution Yard Odor Away! Hose Spray Concentrate, 32 fl. oz."  0.8593099346263151
+COL title VAL "150-051 Versa-Pod Model 51 Bipod 50 Series Gun Rest With Pan Tilt &amp; Lock Controls 7 to 9 and Rubber Feet."  COL title VAL "AccuShot BT10 Atlas Bipod Standard Two Screw 1913 Rail Clamp"  0.9427180267807429
+COL title VAL "Red Devil 4153 3-Inch Bent Burn-Off Scraping Knife"  COL title VAL "MINTCRAFT 11072 ProSource Burn Off Scraper, 3 in W, High Carbon Steel Wood, 3&amp;quot"  0.7363058088553875
+COL title VAL "Mycodex Plus Environmental Control Aerosol Household Spray"  COL title VAL "Knockout Area Treatment by Virbac (14 oz)"  0.8064718625835106
+COL title VAL "Meyda Tiffany 28496 Wisteria Wall Sconce, 14&quot; Width"  COL title VAL "Dale Tiffany TW101056 Meadowbrook Wall Sconce Light, Verona Bronze and Art Glass Shade"  0.9239361826181752
+COL title VAL "Moneywise Kids"  COL title VAL "Learning Resources Buy It Right Shopping Game"  0.890341907667578
+COL title VAL "Star Wars: Episode 1 Destroyer Droid Action Figure"  COL title VAL "Star Wars CommTech Reader"  0.8117506474552322
+COL title VAL "Moneywise Kids"  COL title VAL "Learning Resources Money Bags Coin Value Game"  0.561289956244845
+COL title VAL "JOLEES Boutique Title Wave Dimensional Stickers, France"  COL title VAL "PAPER HOUSE Beadaholique EN202 (HAWK: D30304 1000pc) 3/4&quot; Self Sealing Zip Line Brand Bags, Clear"  0.9495759309565864
+COL title VAL "VillaWare V6300-12 12-Inch Classic Electric Skillet with Nonstick Coating"  COL title VAL "CucinaPro Electric Skillet with Tempered Glass Lid- Professional Grade Non-stick Cooker w Stainless Steel Body- 12&quot; Round"  0.8523833893183227
+COL title VAL "Star Wars Episode I: The Phantom Menace, Queen Amidala (Naboo) Action Figure, 3.75 Inches"  COL title VAL "Star Wars: Episode 2 Padme Amidala (Arena Escape) Action Figure"  0.6749215195199112
+COL title VAL "Osteo-Form by Vet-A-Mix (50 Tablets)"  COL title VAL "Animal Essentials Seaweed Calcium"  0.9022656804095371
+COL title VAL "AmpliVox S601 Mity-Meg 15 Watt Megaphone"  COL title VAL "Pyle Megaphone Speaker PA Bullhorn - with Built-in Siren  50 Watts &amp; Adjustable Volume Control Ideal for Football, Baseball, Hockey, Cheerleading Fans Coaches or Safety Drills PMP53IN"  0.6600354388269356
+COL title VAL "Brass Craft Service Parts Sterl Tub/Shwr H/C Stem St309 Faucet Stems"  COL title VAL "Ster Hot/Cold Cartridge"  0.7788175812005417
+COL title VAL "Rotary 10485 V Belt"  COL title VAL " Oregon 75-918 Exact Replacement Belt for John Deere GC00081, 3/8-inch x 3/8&quot; X 35 1/8. inches  0.6229755576687414
+COL title VAL "Roman 18&quot; Joseph's Studio Saint Francis of Assisi Outdoor Garden Statue"  COL title VAL "Design Toscano Nature's Nurturer Saint Francis Garden Statue Birdfeeder, Large 37 Inch, Polyresin, Antique Stone"  0.9671630439727549
+COL title VAL "Star Wars CommTech Reader"  COL title VAL "Star Wars Episode I: The Phantom Menace, R2-D2 (Booster Rockets) Action Figure, 3.75 Inches"  0.9226218936973621
+COL title VAL "Ace Martial Arts Supply Ninja Folding Grappling Hook with Rope"  COL title VAL "BladesUSA 2801 Ninja Climbing Claw, Pair"  0.7696001271301557
+COL title VAL "Healthy Haircare Product Sunflower&nbsp;Sunscreen&nbsp;Rtu&nbsp;Qt"  COL title VAL "W F Young Pet 687797 Santa Fe Coat Conditioner Spray SPF 8, 32 oz"  0.9713473306904065
+COL title VAL "Mudpuppy The Beatles Yellow Submarine Wall Decals"  COL title VAL "Beatles Promo - Vinyl Wall Art Decal Stickers Decor Graphics"  0.9565531031399482
+COL title VAL "Fiebing's Blue Frost Whitening Shampoo"  COL title VAL "FARNAM 45904 Laser Sheen Pet Hair Detangler, 32-Ounce"  0.9852430161418406
+COL title VAL "Cold Steel Heavy Machete with Polypropylene Handle"  COL title VAL "Ontario Knife Co 1-18&quot; Military Machete"  0.6197302233457697
+COL title VAL "Kokuyo luxury scissors ring type fluorine coating black Hasa-F32ND (japan import)"  COL title VAL "Raymay Fujii scissors swing cut titanium coat SH120"  0.965086222920918
+COL title VAL "Agri-Fab 24-Inch x 36-Inch Commercial Steel Tow Lawn Roller 45-0179"  COL title VAL "Precision Products PLR1836 18-Inch by 36-Inch Lawn Roller"  0.8917167866208909
+COL title VAL "Fisher-Price Bright Beginnings Ready Steady Trike"  COL title VAL "Little Tikes Go N Grow Lil' Rollin' Giraffe Ride On"  0.9757854504307828
+COL title VAL "Key Education Publishing Listening Lotto: Outside Sounds"  COL title VAL "Galt Toys Inc Soundtracks CD"  0.9710742821322725
+COL title VAL "Aerobie Skylighter L.E.D. Lighted Flying Disc (colors and styles may vary)"  COL title VAL "Aerobie Pro Ring, Colors May Vary"  0.6198452872580293
+COL title VAL "Cosmic Alpine Scratcher"  COL title VAL "FATCAT Big Mama's Scratch 'n Play Ramp Reversible Cardboard Toy and Catnip Included"  0.9514137919629646
+COL title VAL "Keys Center G CG2 Elliptical Trainer"  COL title VAL "Sole Fitness E35 Elliptical Machine"  0.8213309063679683
+COL title VAL "Capewell THRUSH&nbsp;BUSTER&nbsp;20Z&nbsp;90010"  COL title VAL "Keratex KHG 1000 Hoof Gel, 1 L"  0.5788946098302499
+COL title VAL "Late for the Sky Washington DC-Opoly"  COL title VAL "Monopoly Historic San Francisco Edition"  0.877739024379347
+COL title VAL "Schwinn 438 Elliptical Trainer [Discontinued]"  COL title VAL "Sole Fitness E35 Elliptical Machine"  0.8906276154848567
+COL title VAL "Black &amp; Decker Super Chopper"  COL title VAL "Cuisinart DLC-2ABC Mini Prep Plus Food Processor Brushed Chrome and Nickel"  0.979899764423248
+COL title VAL "Guard Dog Security Keychain Red Hot Pepper Spray (color may vary)"  COL title VAL "SABRE Red Lipstick Pepper Spray for Women &ndash; Pink, Maximum Strength OC Used by Police Globally, Fashionable and Small, Safe Easy to Use, Great Gift loved ones, 12 Bursts, 10 Foot Range"  0.9403530570548786
+COL title VAL "KAREN FOSTER Design Acid and Lignin Free Scrapbooking Sticker Sheet, Equestrian"  COL title VAL "Reminisce Signature Dimensional Stickers Sheet, 4.5 by 6-Inch, Horses"  0.9230391643039738
+COL title VAL "Farnam Slick 'N Easy Horse Grooming Block"  COL title VAL "Mane 'n Tail and Body Shampoo 1 Gallon"  0.6572084948476052
+COL title VAL "Champion Sports Economy Shuffleboard Set: Indoor Outdoor Game - 8 Pucks 4 Cue Sticks &amp; Plastic Court"  COL title VAL "Hathaway Shuffleboard Brush, Dark Cherry Finish"  0.9724147177732099
+COL title VAL "Absorbine Hair Polish Refill Bottle, 32-Ounce"  COL title VAL "Farnam Slick 'N Easy Horse Grooming Block"  0.9653485092391753
+COL title VAL "Fitnex E70 Light Commercial Elliptical"  COL title VAL "Sunny Health &amp; Fitness SF-E902 Air Walk Trainer Elliptical Machine Glider w/ LCD Monitor"  0.8975157807475013
+COL title VAL "Wells SPORTMiX Gourmet Peanut Dog Biscuit Treats - 20 lb. Bag"  COL title VAL "Milk-Bone Large Dog Biscuits, 14-Pound"  0.9083337015105334
+COL title VAL "H.b. Ives C-8400B3 6X30 C8400PA28-6X30 Kick Plates"  COL title VAL "Hillman 852735 Hardware Essentials 852735-Solid Kick Plate-Bright Finish 6 x 30, Brass"  0.9566746960716782
+COL title VAL "Don't Break the Ice"  COL title VAL "Hasbro Ants in the Pants Games"  0.7702056283462049
+COL title VAL "GrillPro 43065 17-Inch Stainless Steel Turner"  COL title VAL "Weber 6671 Original Stainless Steel Spatula, Black"  0.7074047009882609
+COL title VAL "Progress Lighting P3753-09 3-Light Foyer Pendant with Clear Seeded Glass, Brushed Nickel"  COL title VAL "Savoy House 7-1041-6-SN, Penrose 6-Light Medium Foyer Lantern, Satin Nickel"  0.8178655971938159
+COL title VAL "Magic Speed Basic Jump Rope. For Children &amp; Adults."  COL title VAL "Buddy Lee Replacement Cord-Black"  0.7932661483848841
+COL title VAL "Scene It? Twilight Saga Deluxe"  COL title VAL "Twilight Saga New Moon the Movie Board Game"  0.7799929002541067
+COL title VAL "Woodstock Percussion WGBLG3 Woodstock Garden Bell, Large"  COL title VAL "Woodstock Chimes WEWBF Encore Water Bell Fountain, Brass and Black"  0.7773843735517826
+COL title VAL "Cedarlooks 030020 Log Round Bench, 3-Feet - 2 benches per box"  COL title VAL "Eucalyptus Solid Wood Fire Pit Curved Bench 44&quot;"  0.5889482356182837
+COL title VAL "Reminisce Jet Setters Self-Adhesive Epoxy Embellishments-Arizona"  COL title VAL "Sticko SPPC08 Classic Stickers, Cowboy Hats and Boots"  0.9875203002546722
+COL title VAL "Liberty P10105L-OAK-U 96mm Oak Cabinet Hardware Handle Wire Pull"  COL title VAL "Laurey 33701 Au Natural 3-Inch Wood Pull"  0.7439593910145499
+COL title VAL "Greenlee  1161 Adjustable Fiber-Jacket Stripper"  COL title VAL "Klein Tools 1004 Wire Stripper and Cutter with Hold Open Spring for 12-26 AWG Solid Stranded Wire, 10-Inch"  0.790611162733636
+COL title VAL "Dr. Naylor Hoof n' Heel (1 Gal ) - Traditional Foot Rot Treatment"  COL title VAL "Kopertox 16oz"  0.8808483348454862
+COL title VAL "Chomp Yip Yap Breath Fresheners for Dogs (1, 1.4-Ounce Tin)"  COL title VAL "Pedigree Dentastix Dental Treats Dogs - Fresh Mint Flavor"  0.9140608622108544
+COL title VAL "Ace Martial Arts Supply Ninja Folding Grappling Hook with Rope"  COL title VAL " Fury Martial Arts FP03381 Tekagi-Shuko Hand Tiger Climbing Claws, Midnight Black  0.9317735702802773
+COL title VAL "Dr. Naylor Hoof n' Heel (1 Gal ) - Traditional Foot Rot Treatment"  COL title VAL "16OZ Top Antibacterial"  0.9616780264794544

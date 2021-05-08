@@ -1,0 +1,517 @@
+COL title VAL "Duramax Model 00311 8x8 DuraMate Vinyl Storage Shed"  COL title VAL "Duramax 00184 Dura Mate Shed with Foundation, 8 by 5.5-Inch"  0.9190632902163843
+COL title VAL "BRIO Mini-Straight Track"  COL title VAL "BRIO Stacking Track Supports"  0.9031234594061358
+COL title VAL "Electronic Interactive Whac-A-Mole Game"  COL title VAL "Whac-A-Mole Arcade Game"  0.9386884633979414
+COL title VAL "Jolee's Boutique Dimensional Stickers, Santa Hats"  COL title VAL "Jolee's Boutique Christmas Present Dimensional Stickers"  0.9422946838534367
+COL title VAL "Krups 132-46 Sandwich Express Maker"  COL title VAL "Cuisinart WM-SW2N Dual-Sandwich Nonstick Electric Grill"  0.7902876488348279
+COL title VAL "Kingston Brass KS8451DL Concord 4-Inch Centerset Lavatory Faucet with Push-Up Pop-Up and Plate, Polished Chrome"  COL title VAL "Kingston Brass KS8261JX Concord Vessel Sink Faucet without Pop-Up and Plate, 8-1/2&quot;, Polished Chrome"  0.9395815801038563
+COL title VAL "Exceed RC 1/10 2.4Ghz Forza .18 Engine RTR Nitro Powered Off Road Buggy (Fire Yellow)"  COL title VAL "1/10 2.4Ghz Exceed RC Hyper Speed Beginner Version .16 Engine Nitro Powered Off Road Buggy Fire Black ***STARTER KIT REQUIRED***"  0.9294404038127071
+COL title VAL "Master Lock 3065DAT 6-Foot-by-2-inch Spring Clamp Tie Downs with PVC Grip and Retention Hooks"  COL title VAL "Master Lock 3113DAT Spring Clamp Tie-Down with Strap Trap and S Hooks Clip - Pack of 2"  0.9254323790401707
+COL title VAL "Bonide PRODUCTS-ROXIDE 47080/62225 Revenge Set Mouse Trap"  COL title VAL "Revenge Press N Set Mouse Trap"  0.9082523569819168
+COL title VAL "Jolee's Boutique Cabochons Dimensional Stickers, Purple Flourishes"  COL title VAL "Jolee's Boutique Cabochons Dimensional Stickers, Black Flourishes"  0.954051792650826
+COL title VAL "Learning Resources Gears! Wacky Factory, 128 Pieces"  COL title VAL "Learning Resources Gears! Gizmos Building Set, 83 Pieces"  0.925835712065537
+COL title VAL "API POND WIDE RANGE pH TEST KIT 160-Test Pond Water Test Kit"  COL title VAL "API Test Strips Freshwater and Saltwater Aquarium Strips"  0.944073826314695
+COL title VAL "NFL Philadelphia Eagles Vortex Playing Cards"  COL title VAL "Philadelphia Eagles Playing Cards Poker Deck Logo Nfl"  0.8288002879954213
+COL title VAL "Ty Beanie Babies - Schweetheart the Orangutang [Toy]"  COL title VAL "TY Beanie Baby - ROARY the Lion"  0.8137569775733344
+COL title VAL "Bickmore Pine Tar 16oz - Hoof Care Formula For Horses"  COL title VAL "Tenda Pine Tar, Gallon (128 oz)"  0.5987521815515414
+COL title VAL "Wusthof 9659 Culinar 3-Piece Starter Set"  COL title VAL "Wusthof Culinar 2-Piece Starter Set"  0.9479621753121424
+COL title VAL "Emperor Aquatics Smart 25 Watt UV Sterilizer"  COL title VAL "Aqua Ultraviolet 25-watt UV Sterilizer for Aquarium, 2-Inch, White"  0.928990778426745
+COL title VAL "Elmer's E433 Craft Bond Paper Glue Gel, 4-Ounce, Clear"  COL title VAL "Elmer's E461 Craftbond Tacky Glue 8Oz, 8 oz, Multicolor"  0.844280659604721
+COL title VAL "KitchenAid K5ASBP Bowl for 5-Quart Professional Stand Mixer"  COL title VAL "KitchenAid KN256CBT Coated Flat Beater  - Fits Bowl-Lift models KV25G and KP26M1X"  0.840651818631598
+COL title VAL "MAN 20&quot; Floating Island Planter"  COL title VAL "Sundial Island Planter - 16 in."  0.9327601999478475
+COL title VAL "San Francisco Bay Brand/Sally's Freeze Dried Bloodworms - 0.5 oz."  COL title VAL "Omega One Freeze Dried Blood Worms 0.96oz"  0.9210741144349999
+COL title VAL "Gourmet Settings Carry On 45-Piece Flatware Set, Service for 8"  COL title VAL "Gourmet Settings Cruise 45-Piece Stainless Steel Flatware Set, 8, 5-Piece place and a hostess Set"  0.9403530570548786
+COL title VAL "Luxilon Big Banger Timo 110 18G Tennis String"  COL title VAL " Luxilon Original Rough 130 Tennis Racquet String  0.7893555017603107
+COL title VAL "Arnold Muffler for Briggs &amp; Stratton, Kohler and Tecumseh"  COL title VAL "Maxpower 334140 Engine Muffler For 1 Inch Pipe Replaces Briggs &amp; Stratton 299477, 299477S, Kohler 275679S and Tecumseh ST105122, 32043A, Many Others"  0.9317114624722079
+COL title VAL "Fiskars Performance Accents 8-Inch Scissors Floral Print"  COL title VAL "Fiskars 194512-1019 N/A Pink Triangle Designer Bent Scissors 8&quot; -"  0.8899121189857752
+COL title VAL "Travel Etch A Sketch"  COL title VAL "Pocket Etch A Sketch"  0.9247556736442004
+COL title VAL "Wenzel Grande Oversize 0-Degree Sleeping Bag (Brown with Plaid Liner)"  COL title VAL "ALPS OutdoorZ Redwood -25 Sleeping Bag"  0.632786451999858
+COL title VAL "Uni-Paint PX-21 Oil-Based Paint Marker, Fine Point, White, 1-Count"  COL title VAL "Uni-Paint PX-20 Oil-Based Paint Marker, Medium Point, Assorted Colors, 6-Count"  0.9479621753121424
+COL title VAL "Vetrolin Liniment"  COL title VAL " Absorbine Liniment Gel (12 oz)  0.9241418199787564
+COL title VAL "Kent Marine Concentrated Liquid Calcium"  COL title VAL "Kent Marine 00412 Tech M Magnesium, 16-Ounce Bottle"  0.8852352197343663
+COL title VAL "AcuRite 01893 12.5-Inch Wall Thermometer, Rooster"  COL title VAL "Chaney Instrument 12.5-Inch Rooster Sunrise Barnyard Tractor Thermometer"  0.9229003037838521
+COL title VAL "Hill'S Science Diet Adult Optimal Care Chicken Recipe Dry Cat Food"  COL title VAL "Hill'S Science Diet Adult Light Dry Cat Food"  0.9488225055941707
+COL title VAL "Johnson Level and Tool 548 48-Inch Brass Bound Mahogany - 6 Vial"  COL title VAL "Empire 990BB-48 48-Inch Brass Bound Mahogany Level"  0.9372395190214481
+COL title VAL "Karakal PU Super Grip Box (Assorted colors)"  COL title VAL "24 Karakal PU Super Grips (Black) - Box"  0.9409527351414793
+COL title VAL "Sticko Cowboy Christmas Stickers"  COL title VAL "Jolee's Boutique 50-21568 Dimensional Stickers, Mini Pinecone Bunches"  0.8831352356382555
+COL title VAL "Aerobie Pro Flying Ring 13 inch,Red, Model A13"  COL title VAL "Liberty Mountain Aerobie Sprint"  0.8055557181150907
+COL title VAL "Aqua Clear Power Filter - 110 V"  COL title VAL "Marina Power Filter"  0.9343951625409306
+COL title VAL "Annin Sicily - 4&quot; x 6&quot; World Stick Flag Made in the USA by"  COL title VAL "Online Stores, Inc. Sicily 4&quot;x6&quot; Stick Flag"  0.9274290480424165
+COL title VAL "Berndes 697549 SignoCast Nonstick  Saute Casserole, 4 Quart with 11.5 Inch Diameter Lid"  COL title VAL "Berndes 674045 Tradition 9.5-Inch, 2.5-Quart Saut&eacute; Casserole Pan with Glass Lid and Thermo Grips"  0.8357518198148309
+COL title VAL "Mudpuppy The Beatles Yellow Submarine Wall Decals"  COL title VAL "Beatles Yellow Submarine Wall Graphic Decal Sticker 25&quot; x 15&quot;"  0.6831024702293615
+COL title VAL "BRIO Short Curved Track"  COL title VAL "BRIO Mini-Straight Track"  0.9181872878284922
+COL title VAL "miniLUK Advance - Higher Order Thinking 1"  COL title VAL "miniLUK Brain Challenger - Visual Perception"  0.8546421704730388
+COL title VAL "Arnold 15.5-Inch Wheelbarrow Wheel with Knobby Treat 480-400-Inch x 8-Inch"  COL title VAL "Arnold 15.5-Inch Wheelbarrow Wheel with Knobby Tread"  0.9544355446110934
+COL title VAL "Cuisinart MM-2M Mini Mate Chopper and Grinder"  COL title VAL "Cuisinart DLC-2ABC Mini Prep Plus Food Processor Brushed Chrome and Nickel"  0.6463765115534258
+COL title VAL "Earthway 2050TP Estate 80-Pound Semi-Assembled Broadcast Tow Spreader"  COL title VAL "Precision Products 100-Pound Capacity Tow-Behind Semi-Commercial Broadcast Spreader TBS4500PRCGY"  0.9339748673821087
+COL title VAL "Tattoo King Multi-Colored Stickers-Christmas Wishes"  COL title VAL "Jolee's Boutique Christmas Present Dimensional Stickers"  0.8502822382795755
+COL title VAL "San Francisco Bay Brand Freeze Dried Bloodworms 1 oz."  COL title VAL "Omega One Freeze Dried Blood Worms 0.96oz"  0.9393037967549965
+COL title VAL "Lamson 39970 Silver Forged 10-Piece Block Set, Maple"  COL title VAL "Lamson 39700 Rosewood Forged 16-Piece Block Set, Maple"  0.9244834151581932
+COL title VAL "Harris Engineering S-L Hinged Base 6-9-Inch BiPod"  COL title VAL "Harris Engineering S-BRM Hinged Base 6-9-Inch BiPod"  0.9513686298813858
+COL title VAL "Harry Potter; Quidditch the Game (2000)"  COL title VAL "Harry Potter Casting Stones Starter Game"  0.9358759869328644
+COL title VAL "Late for the Sky Dallas - Opoly"  COL title VAL "America-opoly"  0.8645965224326934
+COL title VAL "Asian Classic Four Blessings Lamp Finial Polished Brass 2.5&quot;h"  COL title VAL "Antique Brass Asian Classic Finial"  0.9340952063875586
+COL title VAL "Sullivans Heirloom Embroidery Scissors 4&quot;-Silver Round Handle"  COL title VAL "Sullivans Heirloom Embroidery Scissors, 4&quot;, Teardrop Handle"  0.9454497818481421
+COL title VAL "Black &amp; Decker EC950 Slimline Spacemaker Can Opener with Clock Timer"  COL title VAL "Black &amp; Decker Spacemaker Under-Counter Can Opener"  0.9557341219002827
+COL title VAL "Irritrol 2711APR Electric Stainless Bonnet with Flow Control, 3/4&quot;"  COL title VAL "Irritrol 700-1 Ultra Flow Valve with Control NPT Threaded, 1&quot;"  0.940626341879754
+COL title VAL "Nylabone Dental Chew Giant Original flavored Bone Dog Toy"  COL title VAL "Nylabone Dental Chew Petit Original Flavored Bone Dog Toy"  0.9201462609711346
+COL title VAL "Seachem Matrix Carbon 1 Liter"  COL title VAL "Seachem Matrix Carbon 500ml"  0.9440222429754418
+COL title VAL "Austram Vintage Arbor,  French Ivory Finish"  COL title VAL "Achla Designs ARB-11 Garden Arbor/Garden D&eacute;cor, Graphite"  0.7557722111052257
+COL title VAL "Agri-Fab 24-Inch x 36-Inch Commercial Steel Tow Lawn Roller 45-0179"  COL title VAL "Brinly PRT-36BH 690-Pound Tow Behind Poly Lawn Roller, 24 by 36-Inch"  0.7889899226634208
+COL title VAL "Sticko E5220042 Candy Corn Treats Sticker"  COL title VAL "Puffy Dimensional Stickers-Sweet Tooth"  0.8775817402641966
+COL title VAL "Pretty Bird International SPB77320 3-Pound Tortoise Food, Large"  COL title VAL "Zoo Med Natural Tortoise Food"  0.8780530708398524
+COL title VAL "Wusthof Culinar 10-Piece Profile Knife Block Set"  COL title VAL "Wusthof Culinar 2-Piece Starter Set"  0.9602867432263158
+COL title VAL "Wobble Light Wobblelight 111302 500 W Halogen Work Light, Yellow"  COL title VAL "Wobble Light 111102 Self-Righting 175-Watt Metal Halide Work Light, Yellow"  0.9074763422184106
+COL title VAL "SportsStuff Great Big Mable"  COL title VAL "SPORTSSTUFF GREAT BIG MABLE"  0.93096207182521
+COL title VAL "Seachem Marine Buffer 1 Kilo"  COL title VAL "Seachem Reef Buffer 1 Kilo"  0.9492005402963102
+COL title VAL "Star Wars Episode I: The Phantom Menace, Queen Amidala (Naboo) Action Figure, 3.75 Inches"  COL title VAL "Star Wars Episode 1 Coruscant Queen Amidala Action Figure"  0.7515569966574103
+COL title VAL "Sticko Forest Friends Stickers"  COL title VAL "Sticko Stickers, Woodland Animals"  0.9417613746890241
+COL title VAL "K&amp;Company EK Success Studio 112 Alphabet Die-cut Stickers"  COL title VAL "K&amp;Company Studio 112 Alphabet Die-cut Stickers"  0.9294404038127071
+COL title VAL "Arrow Fastener PK21 Parts Kit for JT21CM Staple Gun Tackers"  COL title VAL "Arrow Fastener T55 Easy Squeeze Staple Gun"  0.9489645794940409
+COL title VAL "The Crafts Outlet 1000-Piece Round Rhinestones, 5mm, Purple Amethyst"  COL title VAL "The Crafts Outlet 144-Piece Round Rhinestones, 10mm, Purple Amethyst"  0.9575961713681533
+COL title VAL "KONG Teddy Bear Dog Toy"  COL title VAL "HDP Kong Low Stuffing Squaker Dog Toy"  0.9244152093213263
+COL title VAL "Music of the Spheres Balinese Alto 50 Inch Wind Chime"  COL title VAL "Music of the Spheres N A Wind Chime"  0.9306475840469519
+COL title VAL "Satco S3010 120V Medium Base 25-Watt G40 Light Bulb, Clear"  COL title VAL "Satco 60G40 Incandescent Globe Light, 60W E26 G40, Clear Bulb [Pack of 6]"  0.9150528966571873
+COL title VAL "WEEMS &amp; PLATH Endurance Collection 125 Comfortmeter (Brass)"  COL title VAL "Weems and Plath Endurance II 115 Barometer/Thermometer Brass"  0.9441253649334805
+COL title VAL "Super Duper Publications Using I and Me Fun Deck Flash Cards Educational Learning Resource for Children"  COL title VAL "Super Duper Publications Ask and Answer &ldquo;Where?&rdquo; Questions Fun Deck Flash Cards Educational Learning Resource for Children"  0.9395815801038563
+COL title VAL "Purina Pro Plan Focus Hairball Management Chicken &amp; Rice Formula Adult Dry Cat Food - 16 Lb. Bag"  COL title VAL "Purina ONE Hairball Formula Adult Dry Cat Food"  0.9283438652886878
+COL title VAL "WEEMS &amp; PLATH Endurance Collection 125 Quartz Clock (Chrome)"  COL title VAL "Trintec Solaris Brass Time &amp; Tide Clock"  0.9337939759583311
+COL title VAL "Avid Juicy/BB7 Disc Brake Pads"  COL title VAL "Avid Elixir Disc Brake Metal Pads with Steel (Back)"  0.9353465116437761
+COL title VAL "Global G-668/10 - Knife Roll with 10 Pockets"  COL title VAL "Global G-668/16 - Knife Roll with Handle and 16 Pockets"  0.9555270873367662
+COL title VAL "Makita AG125  2-15/16-Inch to 4-7/8-Inch Pneumatic Nail Driver"  COL title VAL "Fasco 11303F 20-22-Degree Jumbo Strip Nailer for 3-1/8-Inch to 5-1/8-Inch Plastic Collated Nails"  0.741486864081575
+COL title VAL "Kershaw Blackout (1550); 3.25&rdquo; DLCBlack Stainless Sandvik Steel Blade; Glass Filled Nylon Handle with SpeedSafe Assisted Opening, Flipper, Thumbstud, Liner Lock and Single-Position Pocketclip; 3.5 oz."  COL title VAL "Kershaw Knockout Pocket Knife (1870); Stonewashed 3.25&rdquo; 14C28N Sandvik Steel Blade, Anodized Aluminum Handle, SpeedSafe Assisted Open, Flipper, Sub-Frame Lock, 4-Position Deep-Carry Pocketclip; 3.4 OZ"  0.8976952921073469
+COL title VAL "Looney Labs Pirate Fluxx"  COL title VAL "Cthulhu Fluxx"  0.8902465263993528
+COL title VAL "Everlast MT1280D 12&quot; Miter Saw Blade"  COL title VAL "Everlast CBS1050 10&quot; Combination Saw Blade"  0.9314001368406888
+COL title VAL "J.A. Henckels International Fine Edge Pro 9-Inch Honing Steel"  COL title VAL "ZWILLING J.A. Henckels 32576-230 ZWILLING Accessories Sharpening Steel, 9&quot;, Black/Stainless"  0.9398029498394611
+COL title VAL "Streamlight 75300 Stinger Flashlight with 120V AC, 12V DC Cords and 1 Piggyback Holder, Black - 90 Lumens"  COL title VAL "Streamlight 75613 Flashlight"  0.8320320334991896
+COL title VAL "Jolee's Boutique Parcel Dimensional Stickers, Glitter Spiders"  COL title VAL "Jolee's Boutique Cute Spiders and Webs Dimensional Stickers"  0.9557341219002827
+COL title VAL "API Activated Filter Carbon Aquarium Filtration Media"  COL title VAL "Fluval Carbon, 100-gram Nylon Bags - 3-Pack"  0.5663783268311219
+COL title VAL "Jolee's Boutique Stickers, Dragonflies"  COL title VAL "Jolee's Boutique Bling, Dragonflies Stickers"  0.9551102453809244
+COL title VAL "CST/berger 82-20080B 200ft Nylon-Clad Steel Zip-Line, 82-Series Open Reel Tape in FEET/8THS"  COL title VAL "CST/berger 82-20010B 200ft Nylon-Clad Steel Zip-Line, 82-Series Open Reel Tape in FEET/10THS"  0.9628132248397598
+COL title VAL "Seachem Flourish Iron"  COL title VAL " Seachem Flourish Trace Elements 500ml  0.8512122384507991
+COL title VAL "SAN FRANCISCO BAY Brand Freeze Dried Bloodworms 1.75oz"  COL title VAL "Omega One Freeze Dried Blood Worms 0.96oz"  0.9165588263728889
+COL title VAL "Red Carpet Studio Bronze Bicycle Planter, Small"  COL title VAL "Attraction Design HG1102 Metal Nostalgia Yard Bike Planter"  0.8804377458442064
+COL title VAL "Maped Tatoo Soft Grip Scissors 8.25 Inch, Assorted Patterns (479020)"  COL title VAL "Maped Ultimate Soft Grip Scissors, 8.25 inch (697710)"  0.9651519733407093
+COL title VAL "Karakal PU Super Grip Box (Assorted colors)"  COL title VAL "Karakal Assorted Duo Colors Universal PU Replacement Grip (Box of 24), Duo"  0.9399684787207403
+COL title VAL "Nutro Max Dry Cat Food"  COL title VAL "Nutro Max Cat Indoor Adult Salmon Flavor Dry Food (1)16 Pounds; Rich In Nutrients And Full Of Flavor; Supports Healthy Joints &amp; Skin Coat"  0.9426652688692697
+COL title VAL "How to Host a Murder: Hoo Hung Wu"  COL title VAL "How to Host a Murder: The Tragical Mystery Tour"  0.9219218348550492
+COL title VAL "Hasbro Deluxe Turntable Scrabble"  COL title VAL "Scrabble Luxury Edition Board Game"  0.8368881006542948
+COL title VAL "Aleene's Fast Grab Tacky Glue 4oz"  COL title VAL "Elmer's E461 Craftbond Tacky Glue 8Oz, 8 oz, Multicolor"  0.933552071096812
+COL title VAL "Rival 1042W Electric Food Slicer, White"  COL title VAL "Electric Adjustable Compact Food Slicer with Tray and Fence"  0.933673125976404
+COL title VAL "API PROPER pH Freshwater Aquarium Water Stabilizer"  COL title VAL "API Quick Start Aquarium Nitrifying Bacteria"  0.8006920020959544
+COL title VAL "The Crafts Outlet 288-Piece Flat Back Loose Square Rhinestones, 4mm, Crystal Clear"  COL title VAL "The Crafts Outlet 144-Piece Flat Back Loose Square Rhinestones, 14mm, Crystal Clear"  0.9554855697765151
+COL title VAL "Pacific Play Tents Kids Hide Me Dome Tent and Crawl Tunnel Combo, Blue / Green Orange"  COL title VAL "Pacific Play Tents Kids 'Me Too' Dome Tent for Indoor / Outdoor Fun - 48&quot; x 42&quot;"  0.9210386107541458
+COL title VAL "23HP 48&quot; Yard Tractor"  COL title VAL "Husqvarna YTH24V48 24 HP Yard Tractor, 48-Inch"  0.9211450780125898
+COL title VAL "Pro Overgrip 30 Pack"  COL title VAL "Wilson Pro Overgrip-Comfort 12 Pack. White"  0.9111006414357945
+COL title VAL "Zwilling J.A. Henckels Twin Pro-S 2-Piece Carving Set"  COL title VAL "ZWILLING J.A. Henckels 38430-003 ZWILLING Pro 2-pc Carving amp Fork Set Kitchen Utility Knife"  0.9436079622889655
+COL title VAL "Absorbine Bigeloil Horse Liniment"  COL title VAL "Bigeloil -32oz"  0.9120452548221633
+COL title VAL "Purina Pro Plan Focus Small Breed Formula Adult Dry Dog Food - 18 Lb. Bag"  COL title VAL "Purina Pro Plan Focus Toy Breed Formula Adult Dry Dog Food - 5 Lb. Bag"  0.9405717789263596
+COL title VAL "Krups 372-75 Universal Metal Slicer, Chrome, DISCONTINUED"  COL title VAL "Electric Adjustable Compact Food Slicer with Tray and Fence"  0.6790190871760592
+COL title VAL "Sticko Classic Stickers-Seashells"  COL title VAL "Sticko Classic Stickers, Shells and Crabs"  0.909345049070648
+COL title VAL "Norpro Honey/Syrup Dispenser"  COL title VAL "Mrs. Anderson&rsquo;s Baking Syrup Honey Dispenser, Glass with Storage Stand, 8-Ounce Capacity"  0.8955226768697631
+COL title VAL "Sticko Sun, Surf, Sand Stickers"  COL title VAL "Jolee's Boutique Cabochons Dimensional Stickers, Flip Flops"  0.9303950397745815
+COL title VAL "API PHOS-ZORB SIZE 6 Aquarium Canister Filter Filtration Pouch 1-Count Bag"  COL title VAL "API Nitra-Zorb Filter Media Pouch"  0.9167080774432561
+COL title VAL "Kokuyo S&amp;T scissorshigh class Fluorine coating"  COL title VAL "Kokuyo S&amp;T scissors high class Fluorine coating"  0.9623560026053306
+COL title VAL "WMF Profi Plus Stainless Steel Melon Baller"  COL title VAL "Norpro Stainless Steel Double Melon Baller"  0.9207896758909756
+COL title VAL "Slugfest Games Red Dragon Inn: Allies - Ozrik The Adept (Red Inn Expansion) Board Game"  COL title VAL "Red Dragon Inn: Allies - Cormac The Mighty (Red Inn Expansion) Board Game"  0.8951566359697456
+COL title VAL "KINGSTON BRASS KB542LP Lavatory Faucet, Polished Brass"  COL title VAL "Plumb USA - 4&quot; Lavatory Faucet, Polish Brass Finish, Washerless"  0.9286032806388856
+COL title VAL "ADOPT ME Yellow Color Coded S-M Buckle Dog Collar (Needs A Home) Donate To Your Local Charity"  COL title VAL "ADOPT ME Yellow Color Coded L-XXL Semi-Choke Dog Collar (Needs A Home) Donate To Your Local Charity"  0.9205043007398609
+COL title VAL "Highland (9133600) Triple Strength Bungee Cord Assortment - 5 Piece"  COL title VAL " Highland (1874000) 40&quot; Black Industrial Bungee Cord - 1 piece"  0.8991213772699436
+COL title VAL "Seachem Neutral Regulator"  COL title VAL "API PROPER pH Freshwater Aquarium Water Stabilizer"  0.7486280582405688
+COL title VAL "Sticko Stickers, Sand Castles"  COL title VAL "Sticko Sea Shells and Sand Stickers"  0.9538372697660535
+COL title VAL "Seachem Matrix Carbon 1 Liter"  COL title VAL "Seachem Matrix Carbon 100ml"  0.9428234058401229
+COL title VAL "Nauticus - Round 7&quot;dia Wet Location Bulkhead Black Finish Frosted Glass Shade"  COL title VAL "Nauticus - Wet Location Bulkhead Black Finish Frosted Glass Shade"  0.9328825937413195
+COL title VAL "Seachem Neutral Regulator"  COL title VAL "Seachem Equilibrium 600gram"  0.9219921007855413
+COL title VAL "Zwilling J.A. Henckels Twin Pro-S 2-Piece Carving Set"  COL title VAL "J.A. Henckels International CLASSIC 2-pc Carving Set"  0.9461008455487896
+COL title VAL "Jolly Pirate Skeleton Flag"  COL title VAL "Small Jolly Pirate Skeleton Flag - 12&quot; X 18&quot;"  0.919858769509141
+COL title VAL "Annamaet 24% Option Dog Food - 40 lb"  COL title VAL "Annamaet 23% Adult Dog Food - 40 Lb"  0.9514137919629646
+COL title VAL "Little Wigwam Shapes And Colours Placemat"  COL title VAL "Little Wigwam On The Farm Placemat"  0.9398581735438265
+COL title VAL "Toland Home Garden Dragonflies in Flight 12.5 x 18 Inch Decorative Spring Summer Flying Insect Grass Flag"  COL title VAL "Toland Home Garden Dragonfly Pond 12.5 x 18 Inch Decorative Spring Flower Flying Insect Flag"  0.9518632288833652
+COL title VAL "Alpine PAB3100 3100-GPH/33-Feet Cord Hurricane Pump, 396-Inch"  COL title VAL "Alpine PAB4100 4100-GPH/33-Feet Cord Hurricane Pump"  0.9509148131893828
+COL title VAL "Harris BiPod Solid Base 13.5-23 inch 1A2-H"  COL title VAL "Harris Engineering S-BRM Hinged Base 6-9-Inch BiPod"  0.949388565110932
+COL title VAL "Zwilling J.A. Henckels Twin Pro S 4-1/2-Inch High-Carbon Stainless-Steel Steak Knife"  COL title VAL "Zwilling J.A. Henckels Twin Gourmet 8-Piece Steak Knife Set with Box"  0.9230391643039738
+COL title VAL "10 Foot x 20 Universal Canopy Silver Top"  COL title VAL "King Canopy HC1020PC 10-Feet by 20-Feet Hercules 8-Leg Canopy, White"  0.8540953912861297
+COL title VAL "Wright Products VK333X3BL KEYED TIE-DOWN PUSH BUTTON Handle, BLACK"  COL title VAL "Prime-Line Products K 5080 Colonial Push Button Lock with Key and 1-3/4-Inch Hole Center, Black"  0.7044652014107812
+COL title VAL "Lenox Federal Platinum Frost 4-Piece Stainless Steel Hostess Set"  COL title VAL "Lenox Vintage Jewel 4-Piece Flatware Hostess Set"  0.9210030924722232
+COL title VAL "Maxpower 334131 1/2-Inch Round Briggs and Stratton Muffler"  COL title VAL "Oregon 35-006 Muffler Replaces Kohler/Briggs &amp; Stratton 392989"  0.9509148131893828
+COL title VAL "Park &amp; Sun Fold-a-Hoop Basketball Game"  COL title VAL "NBA Hoops Arcade Basketball Game"  0.906363445368199
+COL title VAL "Hasbro Trivial Pursuit - Genus IV"  COL title VAL "Trivial Pursuit: 6th Edition"  0.9048188745508808
+COL title VAL "B&amp;M BW4 Black Widow Telescopic Rod, 13-Feet, 4 Pc (Telescopic)"  COL title VAL "B&amp;M BW3 Black Widow Telescopic Rod, 10-Feet, 3 Pc (Telescopic)"  0.9524415977014574
+COL title VAL "Jolee's Boutique Stickers, Easter Eggs"  COL title VAL "Jolee's Boutique Dimensional Stickers, Moveable Jack-O-Lantern"  0.8788351489496329
+COL title VAL "Star Wars Episode 1 Trade Federation MTT Featuring Battle Droid"  COL title VAL "Star Wars STAP and Battle Droid Action Figure POTF"  0.7086664256015782
+COL title VAL "Bear Roof Mount Weathervane"  COL title VAL "Montague Metal Products 32-Inch Deluxe Weathervane with Gold Bear Ornament"  0.9067357383121377
+COL title VAL "Phoenix 99226 Power Pro Olympic Bench"  COL title VAL "Marcy Competitor Adjustable Olympic Weight Bench with Leg Developer for Lifting and Strength Training CB-729"  0.8977849432728677
+COL title VAL "Cuisinart DLC-836 6-by-6mm Fruit, Vegetable and French Fry Disc Fits 7 11-Cup Processors"  COL title VAL "Cuisinart BDH-2 Blade and Disc Holder"  0.5009078969514055
+COL title VAL "Oakland Living 5608-AB Antique Bronze Cranes &amp; Lily Aluminum Birdbath"  COL title VAL "PSW- Bird Baths 34 in Three-Crane Birdbath for Yard or Garden - Antique Bronze Product SKU: BB14030"  0.8545815013107846
+COL title VAL "miniLUK Advance - Visual Perception"  COL title VAL "miniLUK Brain Challenger - Visual Perception"  0.9261702888986721
+COL title VAL "BE Pressure 18'' Whirl-a-Way Washer Surface Cleaner 4000 PSI"  COL title VAL "Sun Joe SPX-PCA10 10-Inch Surface, Deck and Patio Cleaning Attachment for SPX Series Pressure Washers"  0.8697145792507666
+COL title VAL "K&amp;Company Chicago Grand Adhesions Stickers"  COL title VAL "Jolee's Boutique Dimensional Stickers, Chicago"  0.9218515109969232
+COL title VAL "NuTone QT9093WH Combination Fan/Heater/Light/Night Light, 110 CFM 4.0 Sones with 4-Inch Duct Connector"  COL title VAL "Broan 655 Heater and Bath Fan with Light Combination"  0.8288695592802733
+COL title VAL "Loon Outdoors TOP RIDE, 2 oz."  COL title VAL "Loon Outdoors Scandinavian Fly Line Cleaner"  0.8768981625954774
+COL title VAL "Toysmith Deluxe Chinese Jump Rope"  COL title VAL "Toysmith 2121-36 Chinese Jumprope Assorted Colors"  0.9033368515196484
+COL title VAL "API POND WIDE RANGE pH TEST KIT 160-Test Pond Water Test Kit"  COL title VAL "API POND 5 IN 1 TEST STRIPS Pond Water Test Strips 25-Count"  0.9447403523724995
+COL title VAL "Family Pastimes Caves and Claws - An Award Winning Co-operative Adventure Game"  COL title VAL "Family Pastimes Harvest Time - A Co-operative Game"  0.9325762208953988
+COL title VAL "Kingston Brass KS8261JX Concord Vessel Sink Faucet without Pop-Up and Plate, 8-1/2&quot;, Polished Chrome"  COL title VAL "Kingston Brass KS8451DL Concord 4-Inch Centerset Lavatory Faucet with Push-Up Pop-Up and Plate, Polished Chrome"  0.9444336593961619
+COL title VAL "Beyond123 MiniLUK Starter Pack"  COL title VAL "miniLUK Advance Collection Set"  0.8110033613386769
+COL title VAL "Aqua Ultraviolet 25-watt UV Sterilizer for Aquarium, 2-Inch, White"  COL title VAL "Aqua UV 25 Watt 2 inch Sterilizer"  0.937953735243518
+COL title VAL "Petsport USA Tuff Balls Tug Max Dog Toy"  COL title VAL "Hyper Pet Tennis Balls"  0.8689936296299275
+COL title VAL "Kay Berry- Inc. 97620 Beloved Brother-If Tears Could Build A Stairway - Memorial 16 Inches x 10.5 1.5 Inches"  COL title VAL "Kay Berry- Inc. 98420 Beloved Brother-No Farewell Words Were Spoken - Memorial 16 Inches x 10.5 1.5 Inches"  0.9354645234007783
+COL title VAL "Scrapbook Customs Themed Paper and Stickers Scrapbook Kit, Maine Vintage"  COL title VAL "Reminisce Jet Setters 2 3-Dimensional Sticker, Maine"  0.5490059848149682
+COL title VAL "Kershaw Scallion Camo Folding Knife (1620C); 2.4&rdquo; Bead-Blasted 420HC Stainless Steel Blade, Anodized Aluminum Handle, SpeedSafe Opening, Liner and Tip Lock, Single-Position Pocketclip; 2.5 OZ"  COL title VAL "Kershaw Scallion, Olive Drab Pocket Knife (1620OL); 2.4&rdquo; Bead-Blasted 420HC Steel Blade, Anodized Aluminum Handle, SpeedSafe Assisted Opening, Liner and Tip Lock, Single-Position Pocketclip; 2.5 OZ"  0.8706522670802617
+COL title VAL "Murray 20-Inch Lawn Mower Blade 20045 &amp; 42785 MR-20"  COL title VAL "Replacement Lawnmower Blade for Murray Mowers 40&quot; Cut # 95103E701"  0.9542653664258833
+COL title VAL "Maped Quick-Change Craft Scissors Case with 10 Blades, Assorted Colors (601010)"  COL title VAL "Maped Quick-Change Craft Scissors with 5 Blades, Assorted Colors (601005)"  0.9612074090142129
+COL title VAL "24&quot; Rooster Accent Weathervane"  COL title VAL "Whitehall Products Horse Accent Weathervane, 24-Inch, Black"  0.9284736815112622
+COL title VAL "Jaybird Quilts JBQ132 Tiny Dancer"  COL title VAL "Jaybird Night Sky Quilt"  0.9178933729531492
+COL title VAL "Scrapbook Customs Themed Paper and Stickers Scrapbook Kit, England Sightseeing"  COL title VAL "Scrapbook Customs Themed Paper and Stickers Scrapbook Kit, Germany Sightseeing"  0.9462500470339434
+COL title VAL "API Hand HELD Algae PAD for Glass Aquariums 1-Count Container"  COL title VAL "API ALGAE PAD For Acrylic Aquariums 1-Count Container"  0.8967045230536621
+COL title VAL "Harrisville Designs Style A Easyweaver"  COL title VAL "Harrisville Designs Lap Loom (Style A)"  0.9286032806388856
+COL title VAL "Leslie Dame CD-144C Library Style CD Storage Cabinet, Solid Oak, Cherry Finish"  COL title VAL "Leslie Dame CD-228 Solid Oak Library Card File Media Cabinet, 12 Drawers, Oak"  0.8127930320563236
+COL title VAL "Aztec Aztec2 Bicycle Brake Pads (Cantilever)"  COL title VAL "SHIMANO Deore/LX Bicycle V-Brake Pads - Pair Y8BM9810A"  0.9150528966571873
+COL title VAL "WEEMS &amp; PLATH Endurance Collection 145 Barometer and Comfortmeter Combination (Brass)"  COL title VAL "WEEMS &amp; PLATH Endurance Collection 125 Comfortmeter (Brass)"  0.964220514258603
+COL title VAL "Truper 31200 Tru Pro 29-Inch Round Point Shovel with Fiberglass D-Handle"  COL title VAL "Truper 31200 Tru Pro Round Point D-Handle Fiberglass Shovel"  0.9608048667967019
+COL title VAL "LamsonSharp 10-Piece Forged Knife Set with Block"  COL title VAL "Lamson 39970 Silver Forged 10-Piece Block Set, Maple"  0.9521309935238556
+COL title VAL "Aleene's Fast Grab Tacky Glue 4oz"  COL title VAL "I Love To Create Aleene's Always Ready Turbo &quot;Tacky&quot; Glue, 4-Ounce"  0.7320654038782576
+COL title VAL "DVM Pharmaceuticals HyLyt (efa) Hypoallergenic Shampoo for Dogs"  COL title VAL "HyLyt DVM Shampoo (1 Gallon)"  0.9184070947177151
+COL title VAL "Amerock Corp BP176C-AE Amerock Allison Bp176Cae Colonial Cabinet Pull, 1-1/8 in Projection, 5-9/16 L X 5/8 W, Antique Brass"  COL title VAL "National Hardware S803-668 8059 Victoria Pulls in Antique Brass, 3-1/2&quot;"  0.714528455815728
+COL title VAL "Sandylion Spiders Essentials Sticker, Large"  COL title VAL "Jolee's Boutique Parcel Dimensional Stickers, Glitter Spiders"  0.8722385876369141
+COL title VAL "Leader Solids Answer 5 Pump"  COL title VAL "Leader&lt;br&gt;Clear Answer 2 Pump"  0.9224823435231173
+COL title VAL "Brio Medium Straight Track"  COL title VAL "BRIO Curved Track"  0.9268352785943768
+COL title VAL "Star Wars, Episode I: The Phantom Menace, Senator Palpatine Action Figure, 3.75 Inches"  COL title VAL "Star Wars Episode I: The Phantom Menace, Queen Amidala (Naboo) Action Figure, 3.75 Inches"  0.9000036942290841
+COL title VAL "Purina Friskies Wet Cat Food Variety Pack (Pack May Vary)"  COL title VAL "#1 Friskies Original Loaf Variety Pack Canned Cat Food (48/5.5-Oz Cans)"  0.9233161978167048
+COL title VAL "Puzz 3D 718 pc U.S Capitol 3d puzzle"  COL title VAL "Puzz 3D New York, York - 3,141 pieces"  0.9247556736442004
+COL title VAL "The Crafts Outlet 144-Piece Flat Back Oval Rhinestones, 14mm, Multi Assortment Mix"  COL title VAL "The Crafts Outlet 144-Piece Oval Rhinestones, 14mm, Jewel Tone Assortment"  0.9525299894869304
+COL title VAL "WEEMS &amp; PLATH Endurance Collection 125 Comfortmeter (Brass)"  COL title VAL "Trintec Solaris Brass Time &amp; Tide Clock"  0.8880326084234692
+COL title VAL "Cuisinart BDH-2 Blade and Disc Holder"  COL title VAL "Cuisinart DLC-835TXAMZ Fine Grater Disc, Fits 7- and 11-Cup Processors"  0.8457514365047493
+COL title VAL "Gourmet Settings Non Stop 20-Piece Flatware Set, Service for 4"  COL title VAL "Strand 20pc Flatware Set"  0.9148248917604958
+COL title VAL "Ty Beanie Babies - Butch the Bull Terrier"  COL title VAL "Ty Beanie Babies - Fetch the Golden Retriever Dog"  0.8513358776401587
+COL title VAL "Schutt Hollywood Bury-All Home Plate"  COL title VAL "Schutt Schutt Bury All Hollywood-Style Home Plate (White)"  0.9086989499484509
+COL title VAL "Zojirushi AFFB-19S, Premium Thermal 1.85 liter Carafe, Brushed Stainless Steel"  COL title VAL "Zojirushi AG-KB10WB Euro Carafe, 1 Liter, White, Made in Japan"  0.7667305846191711
+COL title VAL "Slide-Co 11123 Screen Door Tension Spring with Roller, 1-Inch Nylon, International,(Pack of 2)"  COL title VAL "Prime-Line Products B 517 Screen Door Tension Spring with 1-Inch Nylon Roller, International,(Pack of 2)"  0.9520418961921001
+COL title VAL "Kershaw Scallion Plain Edge Folding Knife - OD Handle, Black Blade"  COL title VAL "Kershaw Scallion, Olive Drab Pocket Knife (1620OL); 2.4&rdquo; Bead-Blasted 420HC Steel Blade, Anodized Aluminum Handle, SpeedSafe Assisted Opening, Liner and Tip Lock, Single-Position Pocketclip; 2.5 OZ"  0.8740234820751455
+COL title VAL "Looney Labs Fluxx EcoFluxx"  COL title VAL "Looney Labs Pirate Fluxx"  0.899651593558944
+COL title VAL "WERNER 30.5 In. W x 54 In."  COL title VAL "WERNER 30.5 In. W x 54 In."  0.9428234058401229
+COL title VAL "Zwilling J.A. Henckels Twin Gourmet High-Carbon Stainless Steel Steak Knives, Set of 4"  COL title VAL "Zwilling J.A. Henckels 39188-000 Twin Pro-S 4-Piece Steak Set Kitchen Utility Knife, Black/Stainless Steel"  0.9143672163257436
+COL title VAL "PBI / Gordon 7471122 Liquid Lawn and Pasture Fertilizer"  COL title VAL "Liquid Lawn and Pasture Fertilizer"  0.9421351743107169
+COL title VAL "PetSTEP Original Folding Pet Ramp"  COL title VAL "Wooden Pet Ramp for Bed - Indoor Dog Made of Oak Wood Furniture"  0.883889030504656
+COL title VAL "ORE International H-33 Flower Stand with Ceramic Top, Cherry"  COL title VAL "Frenchi Home Furnishing Flower Stand With Ceramic Top Cherry Finish"  0.8910549527982959
+COL title VAL "API STRESS COAT Aquarium Water Conditioner"  COL title VAL "API Quick Start Aquarium Nitrifying Bacteria"  0.7998334752573962
+COL title VAL "Jax Polygon"  COL title VAL "Word's Out"  0.5585978975609153
+COL title VAL "Super Duper Publications Sequencing Fun Deck Flash Cards Educational Resource for Children"  COL title VAL "Super Duper Publications Name That Category! Fun Deck Flash Cards Educational Learning Resource for Children"  0.9492476083898198
+COL title VAL "Harris Engineering S-25 Hinged Base 12-25-Inch BiPod"  COL title VAL "Harris Engineering S-BRM Hinged Base 6-9-Inch BiPod"  0.9614615034830581
+COL title VAL "Jolee's Boutique Cabochons Dimensional Stickers, Red Stars"  COL title VAL "Jolee's Boutique Dimensional Repeat Stickers, Multi Stars"  0.9406808578965629
+COL title VAL "Bickmore Pine Tar 16oz - Hoof Care Formula For Horses"  COL title VAL "Bickmore 10FPM105 Pine Tar, 1 gallon"  0.9278224234919353
+COL title VAL "MacGregor Recreational Double First Base"  COL title VAL "MacGregor Heavy Duty Vinyl Bases (Official Set)"  0.7381031407152041
+COL title VAL "Best Manufacturers 8-Inch Standard French Whip with Wooden Handle"  COL title VAL "Best Manufacturers 14-Inch Balloon Whip with Wooden Handle"  0.954137335843458
+COL title VAL "Lucky Duck Clip on Doves (4 pack)"  COL title VAL "MOJO Outdoors Wind Dove Decoy"  0.7378198775721657
+COL title VAL "Sea Gull Lighting 8507-02 Classico One-Light Outdoor Wall Lantern with Clear Beveled Glass Panels, Polished Brass Finish"  COL title VAL "Sea Gull Lighting 8509-02 Classico One-Light Outdoor Wall Lantern With Clear Beveled Glass Panels, Polished Brass Finish"  0.9297599525549317
+COL title VAL "PFIZER EQUINE 450006 Anthelcide EQ Equine Wormer Paste, 0.85 oz"  COL title VAL "Pfizer Zoetis Animal Health Anthelcide EQ Paste 24gm"  0.912825494849679
+COL title VAL "Carruth 137 Hummingbird Welcome Plaque"  COL title VAL "Welcome Cat Wall Plaque"  0.8754146930391172
+COL title VAL "Golden Cat COMPANY 260002 Scamp Litter Bag, 50-Pound"  COL title VAL "Purina Tidy Cats Non-Clumping Cat Litter"  0.5232576259501251
+COL title VAL "Python Aquarium Replacement Pump"  COL title VAL "Python Porter, Mildew resistant with Heavy-duty Velcro"  0.7794897418544618
+COL title VAL "Martha Stewart Crafts Flower Stickers, Fabric Wild Flower"  COL title VAL "Martha Stewart Crafts Flower Stickers, Fabric White Pearl"  0.9485848839548969
+COL title VAL "Cowboy Magic Greenspot Remover"  COL title VAL "Cowboy Magic Super Body Shine for Pets"  0.6404672181730994
+COL title VAL "Jolees Boutique Dimensional Stickers, Sea Horses"  COL title VAL "Sticko Sea Shells and Sand Stickers"  0.9289263306198166
+COL title VAL "Norpro Deluxe Stainless Steel Vertical Meat Poultry Chicken Turkey Roaster, 266"  COL title VAL "Norpro Stainless Steel Vertical Roaster, With Infuser"  0.9485848839548969
+COL title VAL "The Crafts Outlet 144-Piece Flat Back Heart Rhinestones, 6mm, Devil Red Wine"  COL title VAL "The Crafts Outlet 144-Piece Flat Back Heart Rhinestones, 10mm, Ruby Red"  0.9507778868028014
+COL title VAL "miniLUK Advance - Visual Perception"  COL title VAL "miniLUK Advance - Higher Order Thinking 1"  0.9483462190807312
+COL title VAL "Westinghouse Lighting  04716 Corp 75-watt Mini Candelabra Bulb, Clear"  COL title VAL "Westinghouse Lighting  04767 Corp 100-watt Mini Candelabra Bulb, Clear"  0.962071955160256
+COL title VAL "miniLUK Brain Challenger - Visual Perception"  COL title VAL "miniLUK Advance - Visual Perception"  0.9212159832431626
+COL title VAL "Aztec Mags 2.0 Road Bike Brake Pads (1-Pair)"  COL title VAL "Kool Stop Bicycle Brake Pads with X Pad (Dura-Ace/Ultegra)"  0.9428234058401229
+COL title VAL "Black Stretch Bell Lamp Shade 6x12x9 (Spider)"  COL title VAL "Black Faux Leatherette Bell Shade 7x16x12 (Spider)"  0.9028668338232754
+COL title VAL "Zwilling J.A. Henckels Professional&quot;S&quot; 6&quot; Cleaver"  COL title VAL "J.A. HENCKELS INTERNATIONAL Classic 6-inch Cleaver"  0.9315870896477919
+COL title VAL "Arnold 15.5-Inch Wheelbarrow Wheel with Knobby Tread"  COL title VAL "Arnold 15.5-Inch Wheelbarrow Wheel with Ribbed Tread"  0.9566746960716782
+COL title VAL "Pureness Giant Cat Litter Pan, Assorted Colors"  COL title VAL "Petmate Giant Litter Pan for Cat"  0.9194980766039684
+COL title VAL "Kingston Brass KS8268JX Concord Vessel Sink Faucet Without Pop-Up &amp; Plate, Satin Nickel"  COL title VAL "Kingston Brass KS8261JX Concord Vessel Sink Faucet without Pop-Up and Plate, 8-1/2&quot;, Polished Chrome"  0.9307735379456084
+COL title VAL "Bonide Chemical Co 683  Room Fogger, 6-Ounce, 3-Pack"  COL title VAL "Zodiac 100521158 Room Fogger, 3-Ounce, 3-Pack"  0.9690031661071108
+COL title VAL "Le Creuset Stoneware 1-1/2-Quart 9-Inch Square Baking Dish, Cherry"  COL title VAL "CorningWare French White 16-Ounce Round Dish"  0.6171377498617104
+COL title VAL "Wusthof Culinar 5-Inch Boning Knife"  COL title VAL "Wusthof Gourmet 5-Inch Boning Knife"  0.9574770496166174
+COL title VAL "CST/berger 82-20010B 200ft Nylon-Clad Steel Zip-Line, 82-Series Open Reel Tape in FEET/10THS"  COL title VAL "CST/berger 82-20080B 200ft Nylon-Clad Steel Zip-Line, 82-Series Open Reel Tape in FEET/8THS"  0.929696150018054
+COL title VAL "Kokuyo S&amp;T scissors high class Fluorine coating"  COL title VAL "Kokuyo S&amp;T scissorshigh class Fluorine coating"  0.9386884633979414
+COL title VAL "Plan Toy Doll House Accessories for Living Room and Bed Room"  COL title VAL "PlanToys Doll House Dining Room - Neo Style"  0.8422802360947922
+COL title VAL "300 Yard Range Mini Megaphone"  COL title VAL "UZI Ultra Mini Megaphone Rated 10W/ MAX 15W with Recording and Repeat Playback,part no.UZI-MP-204R."  0.9317114624722079
+COL title VAL "Oatey 43793 PVC Saddle Tee Kit, 4-Inch x 3-Inch"  COL title VAL "Fernco TSW-4 4&quot; Tee Tap Saddle For Cast Iron Pipe"  0.7943849604299823
+COL title VAL "HIKARI Staple Pellets Pond Fish Food"  COL title VAL "Blue Ridge Fish Food Pellets | Koi and Goldfish Growth Formula Floating Mini Pellet, Balanced Diet"  0.8585407743224089
+COL title VAL "Remo Kid's Gathering Drum - Large"  COL title VAL "Remo KD-5822-01 Kids Percussion Gathering Drum - Fabric Rain Forest, 22&quot;"  0.9138304453571469
+COL title VAL "Back-to-Basics Smoothie Elite Maker  (Discontinued by Manufacturer)"  COL title VAL "Back to Basics BPE3BRAUS Blender Express Plus 11-Piece Mixing System(Discontinued by Manufacturer)"  0.902093313941911
+COL title VAL "Dinosaurs  and Things Board Game"  COL title VAL "MindWare Chaos"  0.6477982179521103
+COL title VAL "Minka Lavery Outdoor 9802-143-L, Bay View Wall Sconce Lighting LED, Oil Rubbed Bronze"  COL title VAL "Minka Lavery Wall Sconce Lighting 345-37B, Glass Damp Bath Vanity Fixture, 2 Light, 120 Watts, Bronze"  0.7416272328721191
+COL title VAL "Sticko Christmas Stickers, Time"  COL title VAL "Jolee's Boutique Christmas Present Dimensional Stickers"  0.927494747575282
+COL title VAL "Laguna Multi Hose Adapter, 3/4 to 1-1/2-Inch"  COL title VAL "Laguna Universal Coupling Click-Fit 1 1/4&quot; Adapter with 1/2&quot; Hose Barb exhaust"  0.9343951625409306
+COL title VAL "Gourmet Settings Non Stop 20-Piece Flatware Set, Service for 4"  COL title VAL "Gourmet Settings&quot;Hotel&quot; 20-Piece 18-0 Stainless Steel Flatware Set, Service for 4"  0.9573177231110329
+COL title VAL "Progress Lighting P3753-09 3-Light Foyer Pendant with Clear Seeded Glass, Brushed Nickel"  COL title VAL "Progress Lighting P3754-09 6-Light Foyer Pendant, Brushed Nickel"  0.9182606166577373
+COL title VAL "Original Sears Craftsman Husqvarna Part # 180505 CLUTCH.OGURA.4.4.PD"  COL title VAL "Xtreme Replacement PTO Clutch for Ogura 180505, Electric, Free Upgraded Bearings"  0.6069936076789667
+COL title VAL "American Lawn Mower 1705-16 16-Inch 7-Blade Reel Mower"  COL title VAL "American Lawn Mower Company 1815-18 815-18 Reel Mower, 18-Inch, 5-Blade, Black"  0.937953735243518
+COL title VAL "Luxilon Big Banger Alu Power Rough 125 Silver String"  COL title VAL "Wilson LUXILON Big Banger ALU Power 125 Rough Reel, Silver, 100m/16-Gauge"  0.9482504601248406
+COL title VAL "Jaybird Night Sky Quilt"  COL title VAL "Jaybird Quilts JBQ132 Tiny Dancer"  0.9364014209523386
+COL title VAL "Le Creuset Stoneware 1-1/2-Quart 9-Inch Square Baking Dish, White"  COL title VAL "Le Creuset Square Dish Bonus Bonus, White"  0.8074606461386357
+COL title VAL "Keys Center G CG2 Elliptical Trainer"  COL title VAL "Best Fitness E1 Elliptical Trainer by Body Solid"  0.804405915893501
+COL title VAL "Motomco Tomcat All Weather Bait Chunx, 9-Pound"  COL title VAL "Motomco Jaguar Mouse and Rat Bait Chunx/Pail, 9-Pound"  0.9288618287993271
+COL title VAL "Broan 671 Ceiling and Wall Mount Ventilation Fan"  COL title VAL "Broan 688 Ceiling and Wall Mount Fan, 50 CFM 4.0 Sones, White Plastic Grille"  0.925162370941895
+COL title VAL "American Crafts Thickers Glitter Chipboard Letter Stickers, Shoe Box White"  COL title VAL "American Crafts Thickers Puffy Vinyl Stickers Sheet, 6 by 11-Inch, Maple, White"  0.8424099234385521
+COL title VAL "Jolee's Boutique Cabochons Dimensional Stickers, Turkey"  COL title VAL "Sticko Harvest Stickers, Thanksgiving"  0.8849869545599142
+COL title VAL "JUGS Throw-Down Home Plate"  COL title VAL "BSN Rubber Home Plate"  0.9044397362693098
+COL title VAL "Bovidr Laboratories P-4 OZ Poultry Nutri-Drench"  COL title VAL "Vetrx Poultry Aid, 2 fl.oz"  0.8247444122290134
+COL title VAL "VPL 013VPL10-12 Mycodex SensiCare Flea &amp; Tick Shampoo44; 12 oz"  COL title VAL "Adams Flea and Tick Cleansing Shampoo, 12-Ounce"  0.8515829016098735
+COL title VAL "Looney Labs 5513474 Oz Fluxx Card Game, 100 Cards"  COL title VAL "Looney Labs Star Fluxx"  0.9123581052035076
+COL title VAL "Norpro Stainless Steel Recipe Cocktail Shaker"  COL title VAL "Oggi 7007 15 Recipe Stainless Steel Cocktail Shaker"  0.9406808578965629
+COL title VAL "Luigi Bormioli Set of 4 Michelangelo Mastrepiece Wine Glasses, 8-Oz."  COL title VAL "Luigi Bormioli C183K Michelangelo 2.25 oz Liqueur Glasses (Set of 4), Clear"  0.8907702243837406
+COL title VAL "Star Wars Episode 1 Coruscant Queen Amidala Action Figure"  COL title VAL "Star Wars Episode I: The Phantom Menace, Queen Amidala (Naboo) Action Figure, 3.75 Inches"  0.8243205491125413
+COL title VAL "Wallace Forged Bypass Pruner"  COL title VAL "Wallace 9685 Bypass Pruner"  0.8952482522029788
+COL title VAL "Texsport Bulk Tank Double Propane Heater"  COL title VAL "Mr. Heater MHC15T Single Tank Top Outdoor Propane Heater"  0.9196425311777929
+COL title VAL "Black &amp; Decker EC950 Slimline Spacemaker Can Opener with Clock Timer"  COL title VAL "Black &amp; Decker EC950B Spacemaker Slimline Can Opener with Digital Clock Timer"  0.9288618287993271
+COL title VAL "Looney Labs Star Fluxx"  COL title VAL "Cthulhu Fluxx"  0.8668667948413551
+COL title VAL "Factory-Reconditioned KitchenAid RRK5AWH 5-Quart Mixer, White"  COL title VAL "KitchenAid Professional 5 Plus Stand Mixer RKV25G0XER, 5-Quart, Empire Red, (Certified Refurbished)"  0.9102666048728489
+COL title VAL "Guard Dog Security Keychain Red Hot Pepper Spray (color may vary)"  COL title VAL "Guard Dog Security Pepper Spray with Tear Gas and UV Identifying Dye"  0.8733229033333372
+COL title VAL "Puffy Dimensional Stickers-Sweet Tooth"  COL title VAL "Monthly Planner Stickers Rainbow Birthday Cupcakes Balloons Party Hat Labels Compatible with Erin Condren Life - 70 Stickers"  0.7110799296870132
+COL title VAL "Gale Force Nine Star Trek Ascendancy Cardassian Expansion Game"  COL title VAL "Gale Force Nine Star Trek Ascendancy Ferengi Expansion Game"  0.9145963319978375
+COL title VAL "Durapro Megabrite Self-powered Super-bright Led Flashlight &amp; Emergency Flasher 2 Pack"  COL title VAL "MegaBRITE Self-powered AM/FM radio &amp; super bright LED flashlight by DuraPRO"  0.9325147908355358
+COL title VAL "23HP 48&quot; Yard Tractor"  COL title VAL "Husqvarna 960430212 YTA22V46 22V Fast Continuously Variable Transmission Tractor Mower, 46&quot;/Twin"  0.7931860612511936
+COL title VAL "Family Pastimes The Adventures of Harley - A Co-operative Game"  COL title VAL "Mystery Board Game The Secret Door by Family Pastimes - Award Winning"  0.8643677084417295
+COL title VAL "Jolee's Boutique Dimensional Stickers, Balloon Party"  COL title VAL "Jolee's Boutique Dimensional Stickers, Party Hats"  0.9487750645324247
+COL title VAL "150-051 Versa-Pod Model 51 Bipod 50 Series Gun Rest With Pan Tilt &amp; Lock Controls 7 to 9 and Rubber Feet."  COL title VAL "Harris Engineering S-BRM Hinged Base 6-9-Inch BiPod"  0.6307275685418959
+COL title VAL "Movie Maniacs Two Childs Play 2 Chucky Figure by McFarlane"  COL title VAL "McFarlane Toys Movie Maniacs Series 2 Deluxe Boxed Set Bride of Chucky"  0.8337311161465522
+COL title VAL "Pinecone Door Knocker - Oiled Bronze (Premium Size)"  COL title VAL "Pinecone Door Knocker - Nickel Silver (Premium Size)"  0.9525299894869304
+COL title VAL "API Ammo-Chips"  COL title VAL "API Nitra-Zorb Filter Media Pouch"  0.8997397218557991
+COL title VAL "Sticko Harvest Stickers, Thanksgiving"  COL title VAL "Jolee's Boutique Dimensional Stickers, Characters"  0.9063219973254493
+COL title VAL "Star Wars CommTech Reader"  COL title VAL "Star Wars: Episode 1 Destroyer Droid Action Figure"  0.6112804573324683
+COL title VAL "Laguna Universal Click-Fit Fast Coupling with Outlet"  COL title VAL "Laguna Click-Fit Connector with Threaded Male Fitting, 1-1/4-Inch"  0.9090225156594562
+COL title VAL "Earthway 80-Pound Semi-Assembled Tow Spreader with 10-Inch Wheels 2050T (Discontinued by Manufacturer)"  COL title VAL "Precision Products 100-Pound Capacity Tow-Behind Semi-Commercial Broadcast Spreader TBS4500PRCGY"  0.9230391643039738
+COL title VAL "Decipher How to Host a Murder: The Watersdown Affair"  COL title VAL "Decipher How to Host a Murder: The Class of '54"  0.9424537805511987
+COL title VAL "The Hunger Games: Training Days Strategy Game"  COL title VAL "Hasbro Deluxe Turntable Scrabble"  0.8066242339580277
+COL title VAL "Bessey XC7 3-Inch Clippix Standard Plastic Spring Clamp"  COL title VAL "Bessey XC5 2-Inch Clippix Standard Plastic Spring Clamp"  0.9616780264794544
+COL title VAL "Spectrastone Shallow Creek Pebble for Freshwater Aquariums, 5-Pound Bag"  COL title VAL "Spectrastone Shallow Creek Regular for Freshwater Aquariums, 5-Pound Bag"  0.9510513782831763
+COL title VAL "Bosch AL8592N New Alternator"  COL title VAL "Bosch AL0807N New Alternator"  0.933187674170474
+COL title VAL "bambinoLUK Brain Training Early Bloomer Collection Set 3"  COL title VAL "bambinoLUK Early Learning - Visual Perception 2"  0.8383491765205162
+COL title VAL "Tri-Art High Viscosity Paint, 250ml, Liquid Mirror"  COL title VAL "Tri-Art High Viscosity Paint, 120ml, Liquid Mirror"  0.9476239247831291
+COL title VAL "Krups 466-71 Crystal Aroma Plus Coffeemaker, White, DISCONTINUED"  COL title VAL "Cuisinart DCC-1100 12-Cup Programmable Coffeemaker, White"  0.8509647055213694
+COL title VAL "Yat Ming Scale 1:18 - 1968 Shelby GT 500KR"  COL title VAL "Maisto 1:18 Scale 1965 Pontiac GTO (Hurst Edition) Diecast Vehicle (Colors May Vary)"  0.8565125129295588
+COL title VAL "Westinghouse 04518 45 Watt Halogen Flood Light"  COL title VAL "Westinghouse 0471100, 45 Watt MR16, 36&deg; Beam 2000 Hours 120v Halogen Light Bulb, Pack of 6"  0.953923193053936
+COL title VAL "Oldham 120C480 Super Duty 12-Inch 80 Tooth ATB Crosscutting Saw Blade with 1-Inch Arbor"  COL title VAL "Oldham 12080TP All Purpose 12-Inch 80 Tooth ATB Trim and Finishing Saw Blade with 1-Inch Arbor"  0.9541800505684241
+COL title VAL "BattleCON: War of Indines"  COL title VAL "BattleCON: War of Indines Extended Edition"  0.9131358342783976
+COL title VAL "EZE-LAP 22F 1 by 3 Fine Diamond Stone on a Walnut Pedestal"  COL title VAL "EZE-LAP 32F 1 by 4 Fine Diamond Stone on a Walnut Pedestal"  0.9464978508046773
+COL title VAL "BRIO Short Curved Track"  COL title VAL "BRIO Curved Track"  0.9237300338193294
+COL title VAL "50 Pound Push Broadcast Spreader"  COL title VAL "Chapin 82080 80-Pound All Season Professional Broadcast Spreader, (1 Spreader/Package)"  0.8889999380343518
+COL title VAL "API ALGAE PAD For Acrylic Aquariums 1-Count Container"  COL title VAL "API Algae Scraper Extra Long - Acrylic"  0.7361635775325547
+COL title VAL "Black &amp; Decker Spacemaker Under-Counter Can Opener"  COL title VAL "Black &amp; Decker CO100 Spacemaker Traditional Multi-Purpose Can Opener, White"  0.9360515793487681
+COL title VAL "Seachem Neutral Regulator 1 Kilo"  COL title VAL "Seachem Equilibrium 600gram"  0.907271150324787
+COL title VAL "Star Wars, Episode I: The Phantom Menace, Senator Palpatine Action Figure, 3.75 Inches"  COL title VAL "Star Wars, 2002 Saga Collection, Supreme Chancellor Palpatine #38 Action Figure, 3.75 Inches"  0.8930298623335402
+COL title VAL "Plan Toy Doll House Accessories for Living Room and Bed Room"  COL title VAL "Plan Toy Doll House Nursery"  0.8975157807475013
+COL title VAL "Avid Juicy/BB7 Disc Brake Pads"  COL title VAL " Avid Pad retention clip, 03+ Juicy, 08+ BB-7 pair  0.929696150018054
+COL title VAL "Absorbine Veterinary Liniment"  COL title VAL "Absorbine 2-Pack Veterinary Liniment Squeeze Bottle Gel, 12-Ounce"  0.9322685510781549
+COL title VAL "Esschert Design Frog Prince statue - small (TT10)"  COL title VAL "Esschert Design Frog Prince Statue - large"  0.9168570857654618
+COL title VAL "Mind Trap Game"  COL title VAL "MindTrap II 2 ~ The Challenge Continues"  0.9085367792044494
+COL title VAL "Scrapbook Customs Themed Paper and Stickers Scrapbook Kit, Germany Sightseeing"  COL title VAL "Scrapbook Customs Themed Paper and Stickers Scrapbook Kit, Spain Sightseeing"  0.9558579011078252
+COL title VAL "Westinghouse Lighting Corp 04713 100-watt T4 Halogen Light Bulb"  COL title VAL "Westinghouse Lighting  04767 Corp 100-watt Mini Candelabra Bulb, Clear"  0.9318976288712829
+COL title VAL "J.A. Henckels International CLASSIC 8&quot; Carving Knife"  COL title VAL "Wusthof Gourmet 8&quot; Carving Knife"  0.9035498237884777
+COL title VAL "Cardigan Corgi Christmas - 11&quot; x 15&quot; Garden Flag"  COL title VAL "Caroline's Treasures 7304GF Corgi Christmas Peace Flag, Small, Multicolor"  0.8673169645912376
+COL title VAL "Puffy Dimensional Stickers-Sweet Tooth"  COL title VAL "Sticko Classic Tiny Candy Stickers"  0.910226713428791
+COL title VAL "Decipher How to Host a Murder: The Class of '54"  COL title VAL "How to Host a Murder: The Tragical Mystery Tour"  0.9126699493445315
+COL title VAL "Jolee's Boutique Repeats Dimensional Stickers, Surf Board"  COL title VAL "Jolee's Boutique Dimensional Stickers, Palm Trees"  0.9517288138635259
+COL title VAL "McFarlane NBA Steve Nash Phoenix Suns"  COL title VAL "McFarlane Toys NBA Series 19 Steve Nash 3 Action Figure"  0.6032860814347819
+COL title VAL "Elmer's Painters Calligraphy Chisel Tip Paint Marker, Silver (JA7582)"  COL title VAL "Elmer's Painters Calligraphy Tip Paint Markers, Gold/Silver/Black/White and Red, Set of 5"  0.9349912700743234
+COL title VAL "Cuisinart DLC-1SS Mini-Prep Processor, Brushed Stainless Steel"  COL title VAL "Cuisinart DLC-2ABC Mini Prep Plus Food Processor Brushed Chrome and Nickel"  0.9397476786780994
+COL title VAL "Toland Home Garden Fall Wreath Monogram R 12.5 X 18 Inch Decorative Autumn Leaves Welcome Initial Flag"  COL title VAL "Toland Home Garden Fall Wreath Monogram S 12.5 X 18 Inch Decorative Autumn Leaves Welcome Initial Flag"  0.9409527351414793
+COL title VAL "Annamaet 23% Adult Dog Food - 40 Lb"  COL title VAL "Annamaet Grain Free Salcha - Chicken, Turkey &amp; Duck 30 lb"  0.8579467251902556
+COL title VAL "Birds LOVE Go-Round Bird Toy"  COL title VAL "Paradise 4 by 13-Inch Knots Block Chewing Toy, Medium"  0.5447938275472165
+COL title VAL "Pureness Giant Cat Litter Pan, Assorted Colors"  COL title VAL "Lucky Champ Litter Pan"  0.8906751699223611
+COL title VAL "Intrepid International English Fleece Non Slip Close Contact Saddle Pad"  COL title VAL "Intrepid International English Fleece Non Slip All Purpose Saddle Pad"  0.9359930983760056
+COL title VAL "Lamson 2.5 x Server/Turner with Riveted POM Handle"  COL title VAL "Lamson Stainless Steel with Walnut Handle Server/Turner, 2.5&quot; x 2.5&quot;"  0.8919993467962748
+COL title VAL "K&amp;Company 30-658424 Tim Coffey Travel Adhesive Chipboard Stickers, Sea"  COL title VAL "K&amp;Company 30-658356 Tim Coffey Travel Grand Adhesion Stickers, Shell"  0.9446893477840038
+COL title VAL "Harris Engineering S-BRM Hinged Base 6-9-Inch BiPod"  COL title VAL "AccuShot BT10 Atlas Bipod Standard Two Screw 1913 Rail Clamp"  0.6598162750432871
+COL title VAL "Acudor UF-5000 Universal Access Door 8 x 12, White"  COL title VAL "JL Industries 9TM 8&quot; x 12&quot; Flush Universal Access Door Panel, Gray Primer"  0.9048609178405191
+COL title VAL "Feit Electric BPQ500T3/CL/RS2 500W Heavy Duty Double Ended T3 Rough Service Halogen Bulb"  COL title VAL "Feit Electric BPQ500T3/CL/RS/2 500-Watt Clear Rough Service Halogen, 2 Pack"  0.9534053615911416
+COL title VAL "Replacement Spindle Assembly For Noma # 307534 , 51450 56424 50632 39493 327519"  COL title VAL "Maxpower 6813 Quill Assembly for Poulan/Husqvarna/Craftsman 121676X, 121687X, 105891X &amp; 532121687"  0.8864204083088262
+COL title VAL "Nesco MS-2-6 Clean-a-Screen for Dehydrators FD-1010/FD-1018P/FD-1020, Large, Set of 2, White"  COL title VAL "Nesco American Harvest Nesco TR-2 Add-A-Tray for Dehydrators FD-1010/FD-1018P/FD-1020, Set of 2, White"  0.9427707390930307
+COL title VAL "Broan 658 Heater and Fan, 70 CFM 4.0-Sones 1300-Watt, White Grille"  COL title VAL "NuTone 665RP Heat-A-Ventlite Exhaust Fan with 1300-Watt Heater and 100-Watt Incandescent Light, 70 CFM"  0.9359930983760056
+COL title VAL "Gingher 220070-1001 Large Handle Pocket Scissors, 6-Inch, Industrial Pack"  COL title VAL "Gingher 220030-1001 Pocket Scissors, 4-Inch, Industrial Pack"  0.9497160241174912
+COL title VAL "BRIO Curved Track"  COL title VAL "Brio Short Straight Tracks"  0.9154316746159883
+COL title VAL "Little Wigwam Shapes And Colours Placemat"  COL title VAL "Little Wigwam Numbers Placemat"  0.9559813501370537
+COL title VAL "Newman'S Own 576011 Organic Adult Chicken Dry Dog Food, 25-Pound"  COL title VAL "Newmans Own Organic Dog Advncd Chkn&amp;Rice Org3"  0.8793023174120532
+COL title VAL "Horizon E70 Elliptical Trainer (Factory Refurbished)"  COL title VAL "Fitnex E70 Light Commercial Elliptical"  0.8062431344561782
+COL title VAL "Elmer's Painters Opaque Paint Marker, Medium Tip, Yellow (7341)"  COL title VAL "Elmer's Painters Calligraphy Tip Paint Markers, Gold/Silver/Black/White and Red, Set of 5"  0.9298237015600319
+COL title VAL "Montana Acrylic Paint Marker, 2mm, Fine Nib, Iron Curtain (045392)"  COL title VAL "Montana Acrylic Paint Marker, 2mm, Fine Nib, Gravel (045393)"  0.96036116089903
+COL title VAL "Mystery Board Game The Secret Door by Family Pastimes - Award Winning"  COL title VAL "Family Pastimes Harvest Time - A Co-operative Game"  0.8999157721523228
+COL title VAL "RoudyBush Low Fat Bird Food, Small, 44-Ounce"  COL title VAL "RoudyBush Low Fat Bird Food, Mini, 10-Pound"  0.9608048667967019
+COL title VAL "Beyond123 BambinoLUK Starter Pack"  COL title VAL "miniLUK Advance Collection Set"  0.7795736588597554
+COL title VAL "Instant Ocean-Aquarium Systems Duetto Prefilter Sponge for Aquarium Filter"  COL title VAL "Marineland 48001 Duetto Chemical Filter Cartridge, 2-Pack"  0.928990778426745
+COL title VAL "CTK Precision P3 Ultimate Monopod"  COL title VAL "CTK Precision AI Monopod"  0.9525299894869304
+COL title VAL "Family Pastimes Princess - A Co-operative Game"  COL title VAL "Family Pastimes Harvest Time - A Co-operative Game"  0.9498092146901287
+COL title VAL "Bones Swiss L2 Skateboard Bearings 8 Pack"  COL title VAL "Bones Swiss Ceramic Skateboard Bearings 8 Pack"  0.9352282990285243
+COL title VAL "Python Brass Adapter for Aquarium"  COL title VAL "Python Brass Snap Connector for Aquarium"  0.9358759869328644
+COL title VAL "Sticko Sea Shells and Sand Stickers"  COL title VAL "Sticko Beach Time Stickers"  0.915280347731072
+COL title VAL "Precision Products 100-Pound Capacity Tow-Behind Semi-Commercial Broadcast Spreader TBS4500PRCGY"  COL title VAL "Precision Products SB4000PRCGY 75Lb Broadcast Spreader, Dark Grey"  0.9452984873686288
+COL title VAL "Laguna Sturdy Plastic Square Planting Basket, 8-1/3-Inch"  COL title VAL "Laguna Sturdy Plastic Square Planting Basket, 6-Inch"  0.9455001256588014
+COL title VAL "JOLEES Boutique Dimensional Stickers, Together Blossoms"  COL title VAL "Sticko Vellum Stickers, Cherry Blossom"  0.8951566359697456
+COL title VAL "Ty Beanie Baby - Nibbler the Bunny Rabbit"  COL title VAL "Ty Beanie Babies - Ears the Bunny Rabbit"  0.9547740935697214
+COL title VAL "Partrade 245913 222695 Rubber Braid Bands, Brown, 5&quot;"  COL title VAL "Partrade 245914 222703 Rubber Braid Bands, Chestnut, 5&quot;"  0.946842965704064
+COL title VAL "Python Faucet Adapter for Aquarium"  COL title VAL "Python Brass Snap Connector for Aquarium"  0.8636793100018363
+COL title VAL "KitchenAid K5ASBP Bowl for 5-Quart Professional Stand Mixer"  COL title VAL "KitchenAid KB3SS 3-Quart Stainless Steel Bowl for Tilt-Head Stand Mixers"  0.9361683919753396
+COL title VAL "Replacement Spindle Assembly For Sears / AYP Husqvarna # 121617X , 121657X"  COL title VAL "Replacement Spindle Assembly For Sears / AYP Husqvarna # 106037X , 121622X 121658X 136818, 136819, 105483X"  0.9593451514151858
+COL title VAL "ZWILLING J.A. Henckels Five-Star 4&quot; Paring Knife"  COL title VAL "ZWILLING J.A. Henckels Professional&quot;S&quot; 4-Inch Paring Knife"  0.9543930566810525
+COL title VAL "New Item Boker Arbolito Steak knife Set"  COL title VAL "J.A. HENCKELS INTERNATIONAL 39360-000 Classic Steak Knife Set, 4-Piece, Black/Stainless Steel"  0.8578872059303785
+COL title VAL "Vetrolin Liniment"  COL title VAL "Absorbine Veterinary Liniment Gel (Two 12-oz Squeeze Bottle)"  0.9054895755643502
+COL title VAL "Hi Ho! Cherry-O Board Game for 2 to 4 Players Kids Ages 3 and Up (Amazon Exclusive)"  COL title VAL "Chutes and Ladders Board Game for 2 to 4 Players Kids Ages 3 Up (Amazon Exclusive)"  0.9123581052035076
+COL title VAL "Christmas for Unto Us a Child Is Born Wall-decal-15&quot;wide X 15&quot; High-black or White"  COL title VAL "For This Child I Prayed -Wall-decal-22&quot;wide X 9.5&quot; High-black or White"  0.8898642736766995
+COL title VAL "Uvex S1730 Bandido Safety Eyewear, Black Frame, Clear Ultra-Dura Hardcoat Lens"  COL title VAL "Uvex S1730X Bandido Safety Eyewear, Black Frame, Clear UV Extreme Anti-Fog Lens"  0.9523087167764014
+COL title VAL "MacGregor Major League Home Plate"  COL title VAL "Champion Sports Pro Anchor Homeplate"  0.707707807024478
+COL title VAL "Nordic Ware 53624 Pro Cast Bavaria Bundt Pan"  COL title VAL "Nordic Ware Fleur De Lis Bundt Pan"  0.9113376495526663
+COL title VAL "Creative Grids Circle Savvy Quilt Ruler (CGRSAV1)"  COL title VAL "June Tailor Charming Circles Ruler"  0.9023517621357433
+COL title VAL "Skinz Protective Gear Mountain Bike Fork Mount Protector"  COL title VAL " Skinz Protective Gear Road Bike Fork Mount Protector  0.9525741268224333
+COL title VAL "Plan Toy Doll House Children's Bedroom - Classic Style"  COL title VAL "PLAN TOYS Dollhouse Furniture - Neo Bathroom"  0.8696038838927893
+COL title VAL "Kershaw Blackout (1550); 3.25&rdquo; DLCBlack Stainless Sandvik Steel Blade; Glass Filled Nylon Handle with SpeedSafe Assisted Opening, Flipper, Thumbstud, Liner Lock and Single-Position Pocketclip; 3.5 oz."  COL title VAL "Kershaw Volt II Black Serrated Pocket Knife (3650CKTST) with SpeedSafe Assisted Opening, 3.25 In. Blade 8Cr13MoV Steel and 2-Step Serration, Glass-Filled Nylon Handle, 3.3 oz."  0.8683809516442299
+COL title VAL "Gimborn Pro-Treat Freeze Dried Chicken Liver Training Treats for Dogs, 1.5 oz."  COL title VAL "One Rewards Chicken Liver Freeze Dried Dog Treats, 20-Ounce"  0.9422415599230227
+COL title VAL "PetSafe Deluxe In-Ground Fence, PRF-304W"  COL title VAL "PetSafe Basic In-Ground Fence for Dogs and Cats, Waterproof, Tone Static Correction, Pets Over 8 lb"  0.9455504256834861
+COL title VAL "Cuisinart DLC-836 6-by-6mm Fruit, Vegetable and French Fry Disc Fits 7 11-Cup Processors"  COL title VAL "Cuisinart DLC-835TXAMZ Fine Grater Disc, Fits 7- and 11-Cup Processors"  0.9685601495215692
+COL title VAL "Sequence Game"  COL title VAL "Sequence for Kids"  0.8878382606178954
+COL title VAL "Progress Lighting P3754-09 6-Light Foyer Pendant, Brushed Nickel"  COL title VAL "Savoy House 7-1041-6-SN, Penrose 6-Light Medium Foyer Lantern, Satin Nickel"  0.8288695592802733
+COL title VAL "Lawn Boy 10685 Insight Series 21-Inch 6.5 HP Gas Powered Self-Propelled Lawn Mower with Sens-a-Speed"  COL title VAL "Lawn-Boy 17734 21-Inch 6.5 Gross Torque Kohler Electric Start XTX OHV, 3-in-1 Discharge Self Propelled Lawn Mower"  0.93789687838626
+COL title VAL "MINI Temperature Controller Thermostat 25W Heater Heating Aquarium Submersible for 5~20L"  COL title VAL "Cobalt Aquatics 31021 10W Mini-Therm Heater"  0.9340952063875586
+COL title VAL "Black Knight 9110 Ti ProLite Squash Racquet"  COL title VAL "Black Knight QUICK SILVER SQUASH RACQUET"  0.9080487116932057
+COL title VAL "Oakland Living 5608-AB Antique Bronze Cranes &amp; Lily Aluminum Birdbath"  COL title VAL "Oakland Living Meadow Bird Bath, Antique Bronze"  0.8043290797486672
+COL title VAL "Python Brass Adapter for Aquarium"  COL title VAL "Python Faucet Adapter for Aquarium"  0.9219218348550492
+COL title VAL "Kokuyo S&amp;T scissorshigh class Fluorine coating"  COL title VAL "Kokuyo luxury scissors ring type fluorine coating black Hasa-F32ND (japan import)"  0.9320833247440339
+COL title VAL "Ken Onion Rainbow Leek Folding Knife with Speed Safe"  COL title VAL "Kershaw Composite BlackWash Leek Pocket Knife (1660CBBW); 3&quot; Patented Steel Blade, 410 Stainless Handle, Black-Oxide Finish, SpeedSafe Assisted Opening, Frame and Tip Lock; 3.1 OZ"  0.7303379552674515
+COL title VAL "Hitachi UB12D Torch 9.6-Volt to 12-Volt Pivoting Head Flashlight  (Discontinued by Manufacturer)"  COL title VAL "Hitachi UB18D 14.4 - 18 Volt Cordless Flash Light  (Discontinued by Manufacturer)"  0.8620616012024869
+COL title VAL "Brio Short Straight Tracks"  COL title VAL "BRIO Curved Track"  0.8837386101844303
+COL title VAL "Eazypower 30072 1/2&quot; Countersink with 1/4&quot; Hex Shank (1 Pack)"  COL title VAL "Eazypower 30354 5/8-Inch Countersink 1/4-Inch Hex, 1-Pack"  0.9623560026053306
+COL title VAL "Swisher 12007 16 Cubic Feet ATV Poly Dump Cart"  COL title VAL "Swisher 12008A 20-Cubic Foot Multi-Purpose 1,000-Pound Capacity Poly Dump Trailer"  0.9391923492641306
+COL title VAL "Eclipse 1100 HR/A Elliptical Trainer"  COL title VAL "Sunny Health &amp; Fitness SF-E902 Air Walk Trainer Elliptical Machine Glider w/ LCD Monitor"  0.9208608732383983
+COL title VAL "Midwest Tubular Dog Car Barrier"  COL title VAL "MidWest Pet Barrier Wire Mesh Car Barrier"  0.9413314016155963
+COL title VAL "Crystorama 712-OB-CL-MWP Crystal Three Light Basket from Richmond collection in Brassfinish,"  COL title VAL "Crystorama 712-EB-CL-MWP Crystal Three Light Ceiling Mounts from Richmond collection in Bronze/Darkfinish,"  0.9559402370982253
+COL title VAL "Music City Metals 18202-78202 Stainless Steel Burner Replacement for Select Gas Grill Models by Broil King, Broil-Mate and Others"  COL title VAL "Music City Metals 10602-725LR Stainless Steel Burner Replacement for Select Broil-Mate and Broilmaster Gas Grill Models"  0.9464483764341688
+COL title VAL "Stanley 54-524 24 Oz Compo-Cast Ball Pein Hammer"  COL title VAL "Stanley 54-532 32 Oz Compo-Cast Ball Pein Hammer"  0.9633341553497928
+COL title VAL "SPI Home 30746 Pinecone Doorknocker"  COL title VAL "Pinecone Door Knocker - Brass (Premium Size)"  0.951005896676742
+COL title VAL "Kingston Brass KS3791AXBS Restoration Centerset Kitchen Faucet with Sprayer, 8&quot;, Polished Chrome"  COL title VAL "KINGSTON BRASS KS3791ALBS Restoration Kitchen Faucet, Polished Chrome"  0.9425596161127333
+COL title VAL "Bones Super Swiss 6 Bearings 8mm 16 Pack"  COL title VAL "Bones Swiss Ceramic Skateboard Bearings 8 Pack"  0.949529151162087
+COL title VAL "Wood Veneer, Pine, Plain, 2 x 8, 10 mil Paper Backer"  COL title VAL "Pine, 12 Sq. Ft. Veneer Pack"  0.910146882583246
+COL title VAL "Tonic Studios 537 5-Inch Plus Arts and Craft Scissors"  COL title VAL "Tonic Studios 814 Kushgrip 5-Inch Non-Stick Serrated Scissors with Protective Cap"  0.9507778868028014
+COL title VAL "The Crafts Outlet 288-Piece Flat Back Heart Rhinestones, 4mm, Multi Assortment Mix"  COL title VAL "The Crafts Outlet 144-Piece Flat Back Heart Rhinestones, 6mm, Hot Pink/Rose"  0.927953111073203
+COL title VAL "ELMERS Painters Opaque Paint Marker, Medium Tip, Hunter's Green (7452)"  COL title VAL "Elmer's Painters Calligraphy Tip Paint Markers, Gold/Silver/Black/White and Red, Set of 5"  0.8831856204453684
+COL title VAL "Brasscraft CSSL54-60 Gas Dryer and Water Heater Flex-Lines"  COL title VAL "Brasscraft CSSC14-36 Gas Range and Furnace Flex-Lines"  0.959686562165167
+COL title VAL "Hitachi 977874 Band Saw Blade Guide Assembly for 1/2-Inch Blades"  COL title VAL "Hitachi 977873 Band Saw Blade Guide Assembly for 1-Inch Blades"  0.9024377762417778
+COL title VAL "Sportmix Maintenance Adult Mini Chunk Dry Dog Food, 50 Lb."  COL title VAL "Sportmix Wholesomes Large Breed Chicken Meal And Rice Formula Dry Dog Food, 40 Lb."  0.9485372345673925
+COL title VAL "Farberware Accessories Aluminum Nonstick 4-Cup Covered Egg Poacher Skillet, Gray"  COL title VAL "Norpro Nonstick 4-Egg Poacher"  0.9505029467671967
+COL title VAL "WEEMS &amp; PLATH Cutter Collection Barometer"  COL title VAL "Weems and Plath Endurance II 115 Barometer/Thermometer Brass"  0.9432953617308393
+COL title VAL "Minka Lavery Wall Sconce Lighting 344-84, Glass Damp Bath Vanity Fixture, 2 Light, 120 Watts, Nickel"  COL title VAL "Minka Lavery Wall Sconce Lighting 345-37B, Glass Damp Bath Vanity Fixture, 2 Light, 120 Watts, Bronze"  0.9525741268224333
+COL title VAL "Scrapbook Customs Themed Paper and Stickers Scrapbook Kit, Israel Sightseeing"  COL title VAL "Scrapbook Customs Themed Paper and Stickers Scrapbook Kit, Germany Sightseeing"  0.9500414759334155
+COL title VAL "Scrapbook Customs Themed Paper and Stickers Scrapbook Kit, Canada Sightseeing"  COL title VAL "Scrapbook Customs Themed Paper and Stickers Scrapbook Kit, Germany Sightseeing"  0.935523454047124
+COL title VAL "TETON Sports Celsius XL Sleeping Bag; Great for Family Camping; Free Compression Sack"  COL title VAL "ALPS OutdoorZ Redwood -25 Sleeping Bag"  0.6334102636778401
+COL title VAL "Califone PA-15 Handheld Megaphone with 1000 ft Range, Uses 6 D-Batteries"  COL title VAL "Pyle Megaphone Speaker PA Bullhorn - with Built-in Siren  50 Watts &amp; Adjustable Volume Control Ideal for Football, Baseball, Hockey, Cheerleading Fans Coaches or Safety Drills PMP53IN"  0.8006140686239445
+COL title VAL "Mundial Cushion Soft Multi-Layer Shears 9-1/2&quot;-"  COL title VAL "Mundial BP690 Red Dot 9 1/2&quot; Dressmaker Shears"  0.9483940357072362
+COL title VAL "Hasbro Ants in the Pants Games"  COL title VAL "Hasbro Don't Spill the Beans"  0.8409132780637789
+COL title VAL "Hospitality Pineapple Door Knocker - Oiled Bronze (Premium Size)"  COL title VAL "Hospitality Pineapple Door Knocker - Nickel Silver (Premium Size)"  0.9649213233571159
+COL title VAL "Bedford Flag Nylon 36 in. x 45 in."  COL title VAL "Bedford &quot;Conquer Or Die&quot; Indoor Outdoor Printed Nylon Historical Flag 36&quot; X 45&quot;"  0.9388568574948812
+COL title VAL "J.A. HENCKELS INTERNATIONAL 39360-000 Classic Steak Knife Set, 4-Piece, Black/Stainless Steel"  COL title VAL "Zwilling J.A. Henckels Twin Gourmet 8-Piece Steak Knife Set with Box"  0.912825494849679
+COL title VAL "Master Plumber 663-013 MP Internal Pipe Wrench, 3/8-Inch"  COL title VAL "Master Plumber 663-039 MP Internal Pipe Wrench, 3/4-Inch"  0.9540945832142793
+COL title VAL "Star Wars Episode I: The Phantom Menace, Qui-Gon Jinn (Jedi Duel) Action Figure, 3.75 Inches"  COL title VAL "Star Wars Episode I: The Phantom Menace, Obi-Wan Kenobi (Jedi Knight) Action Figure, 3.75 Inches"  0.8420206012010161
+COL title VAL "Roxy Display (MD-EraW2) Matte White Male Mannequin Head"  COL title VAL "(MD-EraRed) Roxy Display Glossy Red Male Mannequin Head"  0.9197867491515395
+COL title VAL "Royal Canin Health Nutrition Maxi Weight Care Dog Dry Food"  COL title VAL "Royal Canin Size Health Nutrition Medium Adult Dry Dog Food"  0.9368073145579628
+COL title VAL "Jolee's Boutique Dimensional Stickers, Ballerina Princess"  COL title VAL "Jolee's Boutique Dimensional Stickers, Rings"  0.9360515793487681
+COL title VAL "Pfaltzgraff Naturewood 16-Piece Stoneware Dinnerware Set (Service for 4)"  COL title VAL "Pfaltzgraff Winterberry 16-Piece Dinnerware Set, Service for 4"  0.9478657435317039
+COL title VAL "PetSafe Deluxe In-Ground Fence, PRF-304W"  COL title VAL "PetSafe in-Ground Fence Kit for Dogs"  0.9327601999478475
+COL title VAL "Whitehall Products Horse Weathervane, 46-Inch, Gold/Bronze"  COL title VAL "Whitehall Products Horse Accent Weathervane, 24-Inch, Black"  0.9490118544722849
+COL title VAL "Mr. Bar-B-Q 07001YEF Deluxe Medium Grill Cover"  COL title VAL "Mr. Bar-B-Q Deluxe Gas Grill Cover, Small"  0.9556927886544406
+COL title VAL "Toysmith Deluxe Chinese Jump Rope"  COL title VAL "Chinese Jump Rope (8-foot) Colors May Vary"  0.8014700784725759
+COL title VAL "Next Innovations EMSUNMOONB/C PB Blue and Copper Sun Moon Eycatcher, Medium"  COL title VAL " Next Innovations Blue and Copper Sun Moon Kaleidescope Eycatcher, Medium (Discontinued by Manufacturer)  0.935523454047124
+COL title VAL "Upper Body and Core Strength Exercise Flash Cards - Super Duper Publications Educational Learning Toy for Kids"  COL title VAL "Super Duper Publications Yogarilla Exercises and Activities - Yoga Flash Card Deck Educational Learning Resource for Children"  0.9114953379300658
+COL title VAL "Scrapbook Customs Themed Paper and Stickers Scrapbook Kit, China Sightseeing"  COL title VAL "Scrapbook Customs Themed Paper and Stickers Scrapbook Kit, Japan Sightseeing"  0.9341552994156889
+COL title VAL "Lenox Tools 3022424CT 24 Carbide Tipped Holesaw, 1-1/2-Inch or 38mm"  COL title VAL "CARBIDE TIPPED HOLE SAW 1-1/2 IN (38MM) PK/1"  0.8654516767364072
+COL title VAL "Woodstock W1148 3/4-Inch by 1-1/4-Inch Long T-Bushing"  COL title VAL "Woodstock W1152-3/4-Inch by 1-1/4-Inch T-Bushing"  0.9374402692115686
+COL title VAL "Sticko Flip Floppin Stickers"  COL title VAL "Sticko Sun, Surf, Sand Stickers"  0.9315248245581522
+COL title VAL "Norpro Grip-EZ Stainless Steel Meat Pounder"  COL title VAL "Norpro Meat Pounder"  0.9126699493445315
+COL title VAL "Plan Toy Doll House Children's Bedroom - Classic Style"  COL title VAL "Plan Toy Doll House Nursery"  0.9073122213606241
+COL title VAL "Palm Tree Door Knocker - Oiled Bronze (Premium Size)"  COL title VAL "Humpback Whale Tail Door Knocker - Brass (Premium Size),Michael Healy Designs,MH1051" />"  0.8774767874818408
+COL title VAL "Leader Solids Answer 6 Pump"  COL title VAL "Leader Clear Answer 3 Pump"  0.9381806768918364
+COL title VAL "Operation Electronic Board Game With Cards Kids Skill Ages 6 and Up (Amazon Exclusive)"  COL title VAL "Hasbro 04700 Candy Land Kingdom of Sweet Adventures Board Game for Kids Ages 3 and Up (Amazon Exclusive), Red"  0.8746672243357356
+COL title VAL "Pedigree Complete Nutrition Adult Dry Dog Food Roasted Chicken, Rice &amp; Vegetable Flavor, 40 Lb. Bag"  COL title VAL "Pedigree Large Breed Adult Dry Dog Food"  0.9113376495526663
+COL title VAL "Cherry Valley Feeder Granary Style Bird Feeder, Colors may Vary"  COL title VAL "Woodlink NA6231 Audubon Hopper Granary Wild Bird Feeder"  0.9398029498394611
+COL title VAL "Mr. Bar-B-Q 07001YEF Deluxe Medium Grill Cover"  COL title VAL "Mr. Bar-B-Q 07002XEF Platinum Prestige Medium Grill Cover"  0.9352282990285243
+COL title VAL "DEWALT DW0242 24-Volt 2.4 Amp Hour NiCd Slide Style Battery"  COL title VAL DeWalt 24V Battery (3300mAh, - Compatible with DC223KA, DE0243, DE0240, DE0241, DW0240, DW017, DW004, DW006K, DW005, DW008K, DE0242, DW007K, DC224KA, DC222KA, DW0243, DW004K, DW0241, DC224KB, DW004K-2"  0.9211450780125898
+COL title VAL "API PROPER pH Freshwater Aquarium Water Stabilizer"  COL title VAL "API pH UP Freshwater Aquarium Water Raising Solution"  0.9042285207402392
+COL title VAL "Berndes 695391 SignoCast Classic , 6-Quart, 13-Inch"  COL title VAL "Berndes 697549 SignoCast Nonstick  Saute Casserole, 4 Quart with 11.5 Inch Diameter Lid"  0.9465472820490716
+COL title VAL "Gamma LIVE WIRE PROFESSIONAL Tennis String"  COL title VAL "Babolat Xcel 17-Gauge Tennis String (Natural)"  0.844729494185582
+COL title VAL "Skinz Protective Gear Mountain Bike Fork Mount Protector"  COL title VAL "Skinz Protective Gear Aero Bars Road Bike Protector"  0.9262370373686071
+COL title VAL "San Francisco Bay Brand/Sally's Freeze Dried Bacteria Free Tubifex - 4 oz."  COL title VAL "San Francisco Bay Brand ASF71510 Freeze Dried Tubifex Worms for Freshwater Fish, 28gm"  0.7556369949292148
+COL title VAL "Marineland 48001 Duetto Chemical Filter Cartridge, 2-Pack"  COL title VAL "Lee's Carbon Cartridge, Disposable, 2-Pack"  0.9170801437701879
+COL title VAL "Ty Beanie Babies Hippie - Ty-Dye Bunny"  COL title VAL "TY2K the Bear Beanie Baby (Retired)"  0.8483450642081475
+COL title VAL "VillaWare V3900 Krumkake Baker"  COL title VAL "VillaWare V3900 Krumkake Baker"  0.9349318868503873
+COL title VAL "Operation Electronic Board Game With Cards Kids Skill Ages 6 and Up (Amazon Exclusive)"  COL title VAL "Mouse Trap Board Game For Kids Ages 6 and Up (Amazon Exclusive)"  0.9420286048020837
+COL title VAL "Farberware Classic 10-Quart Stainless-Steel Stockpot with Lid"  COL title VAL "Cuisinart 766-24 Chef's Classic 8-Quart Stockpot with Cover"  0.9059898203834277
+COL title VAL "Wusthof Classic 8-Inch Carving Knife"  COL title VAL "Wusthof Classic 10-Inch Hollow Edge Carving Knife"  0.959686562165167
+COL title VAL "miniLUK Brain Challenger - Colors and Shapes(pack of 2)"  COL title VAL "miniLUK Advance - Higher Order Thinking 1"  0.8496595810238956
+COL title VAL "Oneida Satin Flight 20-Piece Stainless Steel Flatware Set, Service for 4"  COL title VAL "Oneida Satin Flight 45-Piece Flatware Set, Service for 8"  0.9499486938814428
+COL title VAL "Aerobie Pro Flying Ring 13 inch,Red, Model A13"  COL title VAL "Aerobie Pro Ring, Colors May Vary"  0.8984996493220649
+COL title VAL "FANMATS NCAA University of Oklahoma Sooners Nylon Face Carpet Car Mat"  COL title VAL " Oklahoma Sooners Car Mats Heavy Duty 2 Piece Vinyl Mats"  0.7773843735517826
+COL title VAL "Progress Lighting P9201-28 Alpha Trak Flair Track Heads, Bright White"  COL title VAL "Progress Lighting P9200-28 Alpha Trak Flair Track Heads, Bright White"  0.9504109770159682
+COL title VAL "K&amp;Company Tim Coffey Travel Grand Adhesion Stickers, Sea Icon"  COL title VAL "K&amp;Company 30-658424 Tim Coffey Travel Adhesive Chipboard Stickers, Sea"  0.9227612136829397
+COL title VAL "Republic P-47D Thunderbolt diecast 1:72 model (Amercom SL-44)"  COL title VAL "Hawker Hurricane Mk IIB diecast 1:72 model (Amercom SL-5)"  0.9175246274692966
+COL title VAL "Hy-Ko Products HW-23 Speed Limit 5 MPH Heavy Duty Aluminum Sign 12&quot; x 18&quot; Black/White"  COL title VAL "5 MPH Speed Limit Sign 8&quot; x 12&quot; Aluminum - UV Resistant Coating"  0.7633073741326739
+COL title VAL "Impeller Assembly for Laguna PowerJet 600 Fountain Pump, the Water Garden Original 1500 Pond Pump and Kit"  COL title VAL "Impeller Assembly for Laguna PowerJet 1300 Electronic Fountain Pump, Original 3000 Pond Pump Kit and the Water Garden Pump"  0.9621075733703927
+COL title VAL "Luigi Bormioli Set of 4 Michelangelo Masterpiece Wine Glasses, 11.5-Oz."  COL title VAL "Luigi Bormioli C183K Michelangelo 2.25 oz Liqueur Glasses (Set of 4), Clear"  0.9162595947543866
+COL title VAL "Upwords"  COL title VAL "Hasbro Deluxe Turntable Scrabble"  0.7958168298924412
+COL title VAL "MaxPower 335170 7 Inch x 1.50 Steel Wheel with 1/2 Bore, 1-3/8 InchOffset and Diamond Tread"  COL title VAL "Maxpower 335171 7-Inch by 1-1/2-Inch Steel Wheel"  0.951142221377825
+COL title VAL "Puzz 3D 718 pc U.S Capitol 3d puzzle"  COL title VAL "Puzz 3D Alpine Castle"  0.8224031810687541
+COL title VAL "Precise 726015 Canine Foundation Dry Food for Pets, 15-Pound"  COL title VAL "Precise Senior Formula for Dogs 7 Years Or Older"  0.7500953888172177
+COL title VAL "Jolee's Boutique Parcel Dimensional Stickers, Glitter Spiders"  COL title VAL "Sandylion Spiders Essentials Sticker, Large"  0.7321611672674454
+COL title VAL "Sylvania 14553 - 35PAR14/HAL/FL/RP 35 Watt PAR14 Flood Light Bulb"  COL title VAL "SYLVANIA 15364 - 35 Watt Halogen Light Bulb PAR14 Wide Flood 2,000 Life Hours 450 Lumens 120 Volt"  0.9296322939124037
+COL title VAL "SK Hand Tools 4080 12-Piece 3/8-Inch Drive 6 Point Semi-Deep Metric High Visibility Impact Socket Set"  COL title VAL "SK Hand Tools 4078 8-Piece 3/8-Inch Drive 6 Point High Visibility Fractional Impact Socket Set"  0.9602121916306378
+COL title VAL "Amerock BPR7629-BB Burnished Brass Self-Closing Hinge - 2 Pack"  COL title VAL "Amerock BPR7630AE Variable Overlay Self-Closing, Face Mount Antique Brass Hinge - 2 Pack"  0.9403530570548786
+COL title VAL "Huron/Hueter Toledo Doggie Dooley Digester 16oz"  COL title VAL "Super Dooley Digester Tub"  0.9081302185130296
+COL title VAL "GE 14928 50-Watt 570-Lumen Edison Halogen SpotLight PAR20 Light Bulb"  COL title VAL "50 Watt Replacement Halogen bulb 120V 50W FOR Kitchen Hood GE WB08X10028"  0.8886138868764687
+COL title VAL "Kokuyo luxury scissors ring type fluorine coating black Hasa-F32ND (japan import)"  COL title VAL " Plus fluorine coat type ring scissors extra twist Black (japan import)  0.8803863363336775
+COL title VAL "DEAF DOG White Color Coded S-M L-XL Buckle Dog Collars (No/Limited Hearing) PREVENTS Accidents By Warning Others of Your in Advance"  COL title VAL "DEAF DOG White Color Coded L-XXL Semi-Choke Dog Collar (No/Limited Hearing) PREVENTS Accidents By Warning Others of Your in Advance"  0.9215696355261946
+COL title VAL "Jolee's Boutique Parcel Dimensional Stickers, Glitter Halloween Spiderwebs"  COL title VAL "Jolee's Boutique Parcel Dimensional Stickers, Glitter Spiders"  0.9588085590099391
+COL title VAL "Harris Engineering Adapter, NO. 3 Remington 4/74/7400"  COL title VAL "Harris Engineering S-BRM Hinged Base 6-9-Inch BiPod"  0.9384068429823295
+COL title VAL "Elmer's Painters Calligraphy Tip Paint Markers, Gold/Silver/Black/White and Red, Set of 5"  COL title VAL "ELMERS Painters Opaque Paint Marker, Medium Tip, Hunter's Green (7452)"  0.8510885144206357
+COL title VAL "Super Disc Aerobie 10&quot; Flying Disc"  COL title VAL "Aerobie Skylighter L.E.D. Lighted Flying Disc (colors and styles may vary)"  0.927494747575282
+COL title VAL "Newmans Own Organic Dog Advncd Chkn&amp;Rice Org3"  COL title VAL "Newman's Own Organics Adult Dry Dog Food"  0.9089417211068199
+COL title VAL "Rival 4071-WN 32-Ounce Hot Pot Express, White"  COL title VAL "Chef's Choice 675 International Cordless Electric Hot Pot"  0.6793914500113598
+COL title VAL "Ice Age: The DVD Game"  COL title VAL "Imagination Entertainment Family Feud 2 Edition DVD Game"  0.7849791024442563
+COL title VAL "Global G-38-10 inch, 26cm Diamond Sharpening Steel"  COL title VAL "Global G 45 Ceramic Sharpener"  0.932453308860371
+COL title VAL "Luigi Bormioli Set of 4 Michelangelo Masterpiece 14.5-Oz. Beverage Glasses"  COL title VAL "Luigi Bormioli Set of 4 Romantica Beverage Glasses, 19-Oz."  0.9488225055941707
+COL title VAL "Hikari 00188 - JVR-8191 MR11/6V/10W/G4 MR11 Halogen Light Bulb"  COL title VAL "Hikari 00191 - JCR-8193P MR11/6V/5W/G4/CVR/30DEG MR11 Halogen Light Bulb"  0.9364595541804993
+COL title VAL "SABRE Red Pepper Spray - Police Strength with Holster (4.36 oz)"  COL title VAL "Holster, nylon - (fits 1.5 oz pepper spray, Fox Labs, Sabre, Freeze +P, Wildfire) -Holster only, spray not included."  0.8525676095453198
+COL title VAL "Ergo Systems Auto Pet Feeder, Medium, Gray"  COL title VAL "Ergo Auto Pet Feeder"  0.9563497240647233
+COL title VAL "Stens 105-254 Muffler"  COL title VAL "Maxpower 334140 Engine Muffler For 1 Inch Pipe Replaces Briggs &amp; Stratton 299477, 299477S, Kohler 275679S and Tecumseh ST105122, 32043A, Many Others"  0.6365084629723886
+COL title VAL "Pawleys Island Deluxe Steel Textured Swing Stand, Forest Green"  COL title VAL "Wooden Arch Wooden Hammock Chair Swing Stand"  0.8986331622249173
+COL title VAL "WEEMS &amp; PLATH Cutter Collection Barometer"  COL title VAL "WEEMS &amp; PLATH Endurance Collection 085 Barometer (Brass)"  0.9429811330298921
+COL title VAL "Seymour DG-25 Junior Atlas Post Hole Digger"  COL title VAL "SEYMOUR MIDWEST Digger Post Hole Blade 5-1/2in"  0.953923193053936
+COL title VAL "(MD-MEGGB) ROXY DISPLAY Glossy Black Male Egg Head Mannequin Abstract Style"  COL title VAL "(MD-EraRed) Roxy Display Glossy Red Male Mannequin Head"  0.8889517457525925
+COL title VAL "4 X New Tupperware Cool Ice Cube Plastic Tray with Opening Lid Contain 14 Cubes - HerbalStore_24*7"  COL title VAL "Tupperware Fresh &amp; Pure Ice Tray Purple Set of 2"  0.6042821682771213
+COL title VAL "Bf-110 G-4 diecast 1:100 model (Amercom SL-18)"  COL title VAL "Republic P-47D Thunderbolt diecast 1:72 model (Amercom SL-44)"  0.9497160241174912
+COL title VAL "Grizzly C2307 Flooring Cutter Set, 3/4-Inch"  COL title VAL "Amana Tool SC450 2-PC Carbide Tipped 3-Wing Stile &amp; Rail Flooring w/Nail Slot 3-1/4 D x 7/8 CH 1/8 1/16 R 1/2 3/4 Bore Shaper Cutter Set for 5/8 to Material"  0.5605533756399034
+COL title VAL "Scamp Non-Clumping Cat Litter"  COL title VAL "Purina Tidy Cats Non-Clumping Cat Litter"  0.9111797075998821
+COL title VAL "Bear Roof Mount Weathervane"  COL title VAL "BEAR Weathervane"  0.9322068610768112
+COL title VAL "Imperial Schrade 12OTCP Old Timer Pocket Knife"  COL title VAL "Old Timer 3OT Bearhead Lockback Folding Pocket Knife"  0.9202179865359069
+COL title VAL "Roxy Display (MD-EraW2) Matte White Male Mannequin Head"  COL title VAL "(MD-FEGGW) ROXY DISPLAY Female Gloss White Mannequin Egg Head Abstract Style"  0.93096207182521
+COL title VAL "Key Education Publishing Listening Lotto: Outside Sounds"  COL title VAL "Key Education Faces and Feelings Educational Board Game"  0.8342043867692392
+COL title VAL "SABRE Red Pepper Spray - Police Strength with Holster (4.36 oz)"  COL title VAL "SABRE 3-IN-1 Pepper Spray MAGNUM Tactical Size Unit with Holster&mdash; Police Strength &ndash; Larger (4.36 oz)"  0.9301416449029093
+COL title VAL "Mr. Bar-B-Q Deluxe Gas Grill Cover, Small"  COL title VAL "Mr. Bar-B-Q Premium Large Grill Cover"  0.9317114624722079
+COL title VAL "Kool Stop Thinline Dual Compound Threaded Brake Shoes, Black/Salmon"  COL title VAL " Shimano BR-CT91 Cantilever Brake Shoe Set  0.8869600447832167
+COL title VAL "Sticko Cowboy Christmas Stickers"  COL title VAL "Tattoo King Multi-Colored Stickers-Christmas Wishes"  0.9099870289266672
+COL title VAL "Fagor- Splendid 4 Quart 15-PSI Pressure Cooker and Canner, Polished Stainless Steel - 918060616"  COL title VAL "Presto 01341  4-Quart Stainless Steel Pressure Cooker"  0.9233853131813415
+COL title VAL "Ott-Lite 13 watt HD 508 technology replacement bulb"  COL title VAL "OttLite B84J35 20-Watt Type M Replacement Bulb"  0.9263037302939515
+COL title VAL "Sole E95 Elliptical Trainer (2007 Model, DISCONTINUED)"  COL title VAL "Sole Fitness E35 Elliptical Machine"  0.9005297861178929
+COL title VAL "Little Wigwam Numbers Placemat"  COL title VAL "Little Wigwam On The Farm Placemat"  0.9305845275935025
+COL title VAL "Star Wars MicroMachines Action Fleet X-Wing Fighter"  COL title VAL "Star Wars Micro Machines Action Fleet Series Alpha Rebel Snowspeeder"  0.9165588263728889
+COL title VAL "Jolee's Boutique Dimensional Stickers, Chicago"  COL title VAL "K&amp;Company Chicago Grand Adhesions Stickers"  0.8905324521726555
+COL title VAL "Instant Ocean SeaClone Protein Skimmer, External Hang-On or In-Sump"  COL title VAL "Tunze USA 9004.000 Doc Skimmer for Aquariums, 15 to 65-Gallon"  0.8672045431726157
+COL title VAL "Kershaw Scallion Camo Folding Knife (1620C); 2.4&rdquo; Bead-Blasted 420HC Stainless Steel Blade, Anodized Aluminum Handle, SpeedSafe Opening, Liner and Tip Lock, Single-Position Pocketclip; 2.5 OZ"  COL title VAL "Kershaw Knives 1555BLKST Kershaw Cryo Hinderer Assisted Opening Framelock with Black DLC Finish Partially Serrated Blade"  0.8457514365047493
+COL title VAL "Cuisinart DLC-1FR 21-Ounce Mini-Prep Food Processor, White (Certified Refurbished)"  COL title VAL "Cuisinart DLC-2ABC Mini Prep Plus Food Processor Brushed Chrome and Nickel"  0.9049869480120962
+COL title VAL "GE Lighting 47484 Energy Smart CFL 11-Watt (40-watt replacement) 500-Lumen G25 Light Bulb with Medium Base, 1-Pack"  COL title VAL "GE Lighting 24691 Energy Smart CFL 11-Watt (45-watt replacement) 400-Lumen R20 Floodlight Bulb with Medium Base, 1-Pack"  0.9108630617274583
+COL title VAL "Hill's Science Diet Adult Wet Cat Food"  COL title VAL "Hill's Science Diet Senior Wet Cat Food"  0.9439189420011057
+COL title VAL "WMF Nortica 5-Piece Stainless Steel Flatware Place Setting, Service for 1"  COL title VAL "WMF Nortica 5-Piece Stainless Steel Flatware Hostess Set"  0.9459512535599461
+COL title VAL "Victorinox 4-Inch by 8-Inch Turner, Walnut Handle"  COL title VAL "Victorinox Turner 3-Inch by 5-Inch Square End-flex, Wood Handle"  0.9272974843282968
+COL title VAL "ZWILLING J.A. Henckels Professional&quot;S&quot; 7-Inch Flat Tine Carving Fork"  COL title VAL "Shun Carving Fork"  0.9157335925814537
+COL title VAL "Hasbro Trivial Pursuit - Genus IV"  COL title VAL "Hasbro Trivial Pursuit 20th Anniversary"  0.9130583432721084
+COL title VAL "Tupperware Fridgesmart, Medium"  COL title VAL "Tupperware 3-Piece FridgeSmart Set From Tupperware"  0.954051792650826
+COL title VAL "Aqua Ultraviolet 40 watt replacement transformer"  COL title VAL "Aqua Ultraviolet 25 Watt Transformer Black"  0.9252299570920387
+COL title VAL "SPI 30748 Crab Doorknocker"  COL title VAL "Blue Crab Door Knocker - Nickel Silver (Premium Size)"  0.9196064397275656
+COL title VAL "API PROPER pH Freshwater Aquarium Water Stabilizer"  COL title VAL "API STRESS COAT Aquarium Water Conditioner"  0.9459013026311742
+COL title VAL "Jolee's Boutique Flourishes and Holly Dimensional Stickers"  COL title VAL "Jolee's Boutique 50-21568 Dimensional Stickers, Mini Pinecone Bunches"  0.9114953379300658
+COL title VAL "Ocean Nutrition Green Algae Seaweed 10 Sheets"  COL title VAL "Two Little Fishies ATLSVGS4 Sea Veg-Green Seaweed, 1 oz"  0.8470843821508235
+COL title VAL "Fernco Inc. PQT-400 4-Inch 90 Degree Qwik Tee"  COL title VAL "Fernco TSW-4 4&quot; Tee Tap Saddle For Cast Iron Pipe"  0.5409996540904496
+COL title VAL "K&amp;Company Tim Coffey Travel Grand Adhesion Stickers, Sea Icon"  COL title VAL "K&amp;Company Tim Coffey Travel Grand Adhesion Stickers, Stamp"  0.9242786279246686
+COL title VAL "MacGregor Major League Home Plate"  COL title VAL "Schutt Schutt Bury All Hollywood-Style Home Plate (White)"  0.7271527814771738
+COL title VAL "Hitachi UB12D Torch 9.6-Volt to 12-Volt Pivoting Head Flashlight  (Discontinued by Manufacturer)"  COL title VAL "HQRP High Power Upgrade Bulb 3W LED 100LM 7-30V for Hitachi 318767 UB18D UB18DAL Flashlight + HQRP Coaster"  0.7202698976006762
+COL title VAL "Amerock BP1303-O77 Solid Brass Pull"  COL title VAL "NATURAL ELEGANCE BP1330-O77 Amerock Natural Elegant Leaf Pull, 3-Inch Centers, Burnished Brass"  0.9269676128492204
+COL title VAL "Gourmet Settings Carry On 45-Piece Flatware Set, Service for 8"  COL title VAL "Strand 20pc Flatware Set"  0.925835712065537
